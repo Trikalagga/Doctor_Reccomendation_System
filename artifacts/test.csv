@@ -1,0 +1,1001 @@
+Doctor Name,Specialty,Hospital,Insurance Provider,Gender,Medical Condition,City,Address,Age,Years of Experience,Consultation Fees ($),Billing Amount ($),Rating,Number of Reviews
+Dr. Martinez,Orthopedics,Regional Medical Center,United Healthcare,Female,Obesity,Los Angeles,202 Pine St,62,35,152,8673,3.3,105
+Dr. Garcia,Cardiology,Regional Medical Center,Aetna,Female,Depression,San Antonio,606 Walnut St,36,4,464,2918,3.7,473
+Dr. Williams,Oncology,City Hospital,Medicare,Male,Heart Disease,Los Angeles,707 Chestnut St,25,25,257,1010,1.5,289
+Dr. Johnson,Psychiatry,Regional Medical Center,Aetna,Male,Asthma,Dallas,707 Chestnut St,70,24,483,1105,2.2,128
+Dr. Brown,Orthopedics,Regional Medical Center,Aetna,Male,Asthma,Dallas,404 Birch St,48,3,435,5165,2.2,106
+Dr. Johnson,Psychiatry,Regional Medical Center,Aetna,Female,Cancer,San Diego,123 Main St,60,32,268,9576,3.3,359
+Dr. Smith,Ophthalmology,Specialty Hospital,Aetna,Female,Cancer,San Diego,606 Walnut St,23,10,488,5792,4.4,20
+Dr. Brown,Psychiatry,City Hospital,United Healthcare,Male,Hypertension,Philadelphia,123 Main St,69,31,274,8679,4.5,357
+Dr. Martinez,Orthopedics,Regional Medical Center,Cigna,Male,Cancer,San Diego,505 Spruce St,54,12,255,9090,4.2,278
+Dr. Johnson,Endocrinology,Health Clinic,Blue Cross,Female,Depression,Houston,606 Walnut St,47,5,405,1193,4.8,404
+Dr. Williams,Pediatrics,City Hospital,United Healthcare,Male,COPD,New York,123 Main St,32,26,403,5764,1.1,22
+Dr. Williams,Neurology,General Hospital,Aetna,Male,Arthritis,Philadelphia,505 Spruce St,51,16,133,612,2.3,223
+Dr. Miller,Endocrinology,General Hospital,Aetna,Male,Hypertension,Philadelphia,789 Maple Ave,51,5,271,9741,4.2,325
+Dr. Martinez,Psychiatry,General Hospital,Blue Cross,Female,Heart Disease,New York,606 Walnut St,55,1,99,2669,2.9,397
+Dr. Garcia,Endocrinology,Health Clinic,Blue Cross,Male,Hypertension,Los Angeles,606 Walnut St,24,29,59,732,3.0,222
+Dr. Lee,Gastroenterology,Regional Medical Center,Medicare,Male,COPD,Los Angeles,404 Birch St,40,6,93,5459,4.5,435
+Dr. Miller,Orthopedics,Specialty Hospital,Blue Cross,Female,Diabetes,Phoenix,606 Walnut St,63,2,388,3170,2.3,437
+Dr. Lee,Endocrinology,Health Clinic,Cigna,Male,Migraine,New York,606 Walnut St,53,5,92,6357,2.8,377
+Dr. Johnson,Oncology,General Hospital,United Healthcare,Female,Hypertension,San Antonio,202 Pine St,33,7,59,5800,4.2,299
+Dr. Jones,Cardiology,City Hospital,Cigna,Female,Obesity,San Antonio,606 Walnut St,66,28,113,7267,3.2,328
+Dr. Brown,Pediatrics,City Hospital,Aetna,Male,Cancer,Chicago,456 Elm St,37,21,180,4122,1.5,187
+Dr. Garcia,Pediatrics,City Hospital,United Healthcare,Male,Asthma,Los Angeles,101 Oak St,66,32,334,8450,1.7,183
+Dr. Williams,Ophthalmology,Regional Medical Center,Aetna,Female,Heart Disease,Houston,101 Oak St,49,6,252,7387,2.8,351
+Dr. Lee,Psychiatry,Regional Medical Center,Aetna,Male,Migraine,Philadelphia,606 Walnut St,69,15,436,1406,3.5,19
+Dr. Patel,Pediatrics,Regional Medical Center,Cigna,Female,Heart Disease,Dallas,505 Spruce St,53,21,304,4786,3.6,140
+Dr. Patel,Orthopedics,City Hospital,Medicare,Female,Depression,Phoenix,789 Maple Ave,59,40,457,9847,3.2,209
+Dr. Garcia,Pediatrics,City Hospital,Blue Cross,Female,Obesity,Philadelphia,707 Chestnut St,49,17,444,6994,4.6,25
+Dr. Brown,Gastroenterology,Regional Medical Center,Aetna,Female,Cancer,New York,456 Elm St,41,4,334,7692,1.5,24
+Dr. Martinez,Dermatology,Specialty Hospital,Blue Cross,Male,Migraine,Phoenix,789 Maple Ave,65,12,468,6128,4.1,453
+Dr. Brown,Orthopedics,Regional Medical Center,Medicaid,Male,COPD,San Diego,123 Main St,48,7,470,3243,4.8,105
+Dr. Miller,Orthopedics,General Hospital,Medicare,Male,Diabetes,Dallas,505 Spruce St,68,21,236,9795,3.7,447
+Dr. Lee,Gastroenterology,Specialty Hospital,Aetna,Male,Migraine,Dallas,707 Chestnut St,67,36,116,9775,3.3,285
+Dr. Miller,Endocrinology,City Hospital,Cigna,Male,Depression,Los Angeles,707 Chestnut St,34,14,310,170,1.0,363
+Dr. Williams,Endocrinology,Health Clinic,Blue Cross,Female,Obesity,San Antonio,101 Oak St,63,37,84,2893,1.7,220
+Dr. Lee,Neurology,General Hospital,Blue Cross,Male,Cancer,Chicago,505 Spruce St,33,19,257,2518,1.7,331
+Dr. Johnson,Orthopedics,City Hospital,Medicare,Male,Diabetes,Houston,606 Walnut St,60,10,350,4786,2.5,475
+Dr. Jones,Endocrinology,City Hospital,United Healthcare,Female,Arthritis,Phoenix,202 Pine St,51,35,165,8077,3.5,455
+Dr. Williams,Ophthalmology,Health Clinic,Blue Cross,Male,Cancer,Chicago,505 Spruce St,37,27,288,6731,2.8,205
+Dr. Johnson,Oncology,Specialty Hospital,Aetna,Male,Arthritis,Houston,606 Walnut St,22,16,173,7477,2.0,63
+Dr. Jones,Dermatology,General Hospital,Medicare,Female,Depression,Los Angeles,123 Main St,25,9,491,3650,4.4,337
+Dr. Miller,Oncology,Health Clinic,Cigna,Male,Asthma,Dallas,202 Pine St,21,35,63,6448,1.7,275
+Dr. Jones,Ophthalmology,General Hospital,Cigna,Female,Hypertension,Dallas,101 Oak St,49,39,57,2993,3.9,378
+Dr. Patel,Oncology,Regional Medical Center,Medicare,Male,Migraine,Houston,303 Cedar St,61,27,387,9096,2.5,108
+Dr. Jones,Endocrinology,City Hospital,Medicaid,Female,Arthritis,San Antonio,606 Walnut St,29,3,489,1297,2.1,160
+Dr. Lee,Cardiology,Specialty Hospital,Aetna,Male,Asthma,New York,505 Spruce St,61,10,473,9252,3.6,235
+Dr. Johnson,Ophthalmology,Specialty Hospital,Blue Cross,Male,Arthritis,Chicago,404 Birch St,40,8,56,5013,4.9,9
+Dr. Brown,Neurology,Specialty Hospital,Cigna,Female,Depression,San Antonio,202 Pine St,69,16,457,8236,2.3,259
+Dr. Smith,Endocrinology,Specialty Hospital,Cigna,Female,Diabetes,Los Angeles,707 Chestnut St,56,35,481,1966,1.3,300
+Dr. Smith,Psychiatry,Regional Medical Center,United Healthcare,Male,Asthma,San Jose,707 Chestnut St,63,26,281,1778,1.0,321
+Dr. Patel,Endocrinology,Specialty Hospital,United Healthcare,Female,COPD,Los Angeles,303 Cedar St,51,11,303,2522,1.1,107
+Dr. Lee,Gastroenterology,Health Clinic,Medicare,Male,COPD,Philadelphia,456 Elm St,48,5,401,5908,3.2,465
+Dr. Martinez,Endocrinology,Health Clinic,Medicare,Male,Depression,Houston,456 Elm St,50,21,479,4986,1.9,360
+Dr. Garcia,Ophthalmology,Specialty Hospital,Cigna,Female,Asthma,San Jose,404 Birch St,59,39,467,7394,4.3,316
+Dr. Smith,Oncology,Health Clinic,United Healthcare,Male,Hypertension,New York,101 Oak St,51,12,347,2565,3.0,329
+Dr. Lee,Pediatrics,General Hospital,Aetna,Male,Depression,Philadelphia,505 Spruce St,69,7,500,9209,4.8,329
+Dr. Garcia,Cardiology,City Hospital,Blue Cross,Female,Asthma,San Diego,202 Pine St,30,4,68,5527,1.7,97
+Dr. Miller,Cardiology,Regional Medical Center,Blue Cross,Male,Cancer,San Antonio,789 Maple Ave,58,35,310,1186,2.9,295
+Dr. Martinez,Endocrinology,Specialty Hospital,Cigna,Male,Hypertension,Dallas,606 Walnut St,55,13,320,7060,1.5,449
+Dr. Johnson,Endocrinology,Specialty Hospital,Blue Cross,Female,Cancer,Phoenix,101 Oak St,46,3,188,4742,3.0,342
+Dr. Jones,Orthopedics,Specialty Hospital,United Healthcare,Female,COPD,Chicago,101 Oak St,58,28,407,5183,4.2,412
+Dr. Williams,Dermatology,Health Clinic,United Healthcare,Female,Cancer,San Jose,404 Birch St,22,9,153,186,1.1,450
+Dr. Smith,Neurology,Regional Medical Center,Cigna,Female,Cancer,San Diego,456 Elm St,54,5,278,1503,3.4,307
+Dr. Jones,Endocrinology,Health Clinic,United Healthcare,Male,Heart Disease,San Diego,202 Pine St,22,3,496,8349,1.2,29
+Dr. Miller,Psychiatry,General Hospital,Aetna,Male,Diabetes,Philadelphia,456 Elm St,53,2,254,9541,2.9,235
+Dr. Jones,Oncology,General Hospital,United Healthcare,Female,Heart Disease,Chicago,789 Maple Ave,29,39,330,4054,2.3,172
+Dr. Johnson,Neurology,Health Clinic,Aetna,Male,Obesity,Chicago,456 Elm St,64,17,484,7941,4.2,317
+Dr. Patel,Dermatology,Regional Medical Center,United Healthcare,Male,Depression,Dallas,404 Birch St,27,39,174,9667,2.6,487
+Dr. Miller,Ophthalmology,City Hospital,United Healthcare,Female,COPD,Los Angeles,303 Cedar St,65,39,334,2682,1.2,323
+Dr. Jones,Cardiology,Health Clinic,Aetna,Female,Obesity,New York,606 Walnut St,59,6,326,8265,2.7,199
+Dr. Williams,Endocrinology,General Hospital,United Healthcare,Male,Asthma,San Diego,123 Main St,62,7,345,768,3.1,430
+Dr. Miller,Oncology,Specialty Hospital,Aetna,Male,Asthma,Chicago,404 Birch St,31,3,249,6479,3.4,231
+Dr. Johnson,Neurology,Specialty Hospital,Cigna,Male,Diabetes,Phoenix,606 Walnut St,25,31,100,7771,3.4,365
+Dr. Williams,Orthopedics,Specialty Hospital,Aetna,Female,COPD,Houston,456 Elm St,59,14,109,5285,3.1,223
+Dr. Brown,Gastroenterology,Health Clinic,Medicare,Male,Obesity,San Diego,202 Pine St,42,30,148,1780,2.7,326
+Dr. Jones,Dermatology,Health Clinic,United Healthcare,Male,Obesity,Los Angeles,789 Maple Ave,69,21,356,8014,4.4,70
+Dr. Jones,Ophthalmology,Specialty Hospital,Cigna,Female,Asthma,San Antonio,303 Cedar St,37,23,470,9154,2.8,258
+Dr. Johnson,Endocrinology,Specialty Hospital,United Healthcare,Female,Diabetes,San Jose,707 Chestnut St,42,32,234,296,4.1,196
+Dr. Garcia,Endocrinology,Regional Medical Center,Blue Cross,Male,Heart Disease,Philadelphia,303 Cedar St,67,2,347,5467,3.1,147
+Dr. Miller,Cardiology,General Hospital,Cigna,Male,Migraine,Dallas,505 Spruce St,67,14,51,9726,3.4,442
+Dr. Williams,Ophthalmology,Specialty Hospital,Cigna,Female,Obesity,San Jose,202 Pine St,32,2,366,2843,4.7,407
+Dr. Smith,Dermatology,Regional Medical Center,United Healthcare,Female,Heart Disease,Los Angeles,606 Walnut St,47,10,313,9928,1.3,361
+Dr. Johnson,Oncology,City Hospital,United Healthcare,Male,Heart Disease,San Diego,303 Cedar St,61,15,111,6754,4.2,446
+Dr. Garcia,Endocrinology,Specialty Hospital,Aetna,Female,Heart Disease,Los Angeles,707 Chestnut St,40,11,346,6531,3.3,300
+Dr. Lee,Dermatology,General Hospital,Medicare,Female,Migraine,Philadelphia,123 Main St,56,25,478,5839,3.1,285
+Dr. Patel,Dermatology,City Hospital,Blue Cross,Male,Asthma,Phoenix,707 Chestnut St,60,9,319,9908,2.5,403
+Dr. Jones,Neurology,General Hospital,Aetna,Male,Diabetes,Houston,456 Elm St,69,39,290,3434,2.3,100
+Dr. Lee,Neurology,Specialty Hospital,Cigna,Male,Obesity,Phoenix,303 Cedar St,69,11,447,1888,4.9,316
+Dr. Johnson,Ophthalmology,Regional Medical Center,Aetna,Female,Depression,Dallas,456 Elm St,26,15,366,7056,3.0,27
+Dr. Brown,Endocrinology,Health Clinic,Blue Cross,Male,Heart Disease,Dallas,202 Pine St,50,11,185,6303,4.5,93
+Dr. Brown,Orthopedics,City Hospital,United Healthcare,Female,Cancer,San Diego,101 Oak St,35,27,171,5877,3.0,132
+Dr. Williams,Orthopedics,Health Clinic,Medicare,Male,Asthma,Dallas,404 Birch St,62,10,419,3101,1.1,235
+Dr. Smith,Cardiology,Health Clinic,Aetna,Male,Depression,Philadelphia,101 Oak St,39,27,221,2111,3.7,236
+Dr. Garcia,Psychiatry,Regional Medical Center,Medicaid,Male,Cancer,San Antonio,606 Walnut St,32,36,304,1977,3.1,115
+Dr. Jones,Orthopedics,Specialty Hospital,Cigna,Female,COPD,Philadelphia,202 Pine St,38,26,103,7532,3.4,113
+Dr. Martinez,Ophthalmology,Health Clinic,Medicare,Female,COPD,Dallas,101 Oak St,70,23,338,3362,2.4,219
+Dr. Smith,Cardiology,Specialty Hospital,Aetna,Male,COPD,Phoenix,202 Pine St,67,2,312,2572,2.2,398
+Dr. Williams,Neurology,Regional Medical Center,Aetna,Female,Migraine,San Diego,456 Elm St,26,31,122,2910,3.0,466
+Dr. Jones,Pediatrics,Specialty Hospital,Cigna,Male,Depression,San Diego,101 Oak St,21,6,412,3945,2.3,461
+Dr. Patel,Orthopedics,Specialty Hospital,Aetna,Female,Obesity,San Antonio,505 Spruce St,27,6,360,5768,3.3,377
+Dr. Garcia,Oncology,Health Clinic,Medicare,Male,Diabetes,New York,505 Spruce St,60,13,76,1073,1.2,273
+Dr. Smith,Pediatrics,Health Clinic,Aetna,Male,Hypertension,San Jose,505 Spruce St,23,26,496,7692,3.9,215
+Dr. Johnson,Oncology,General Hospital,United Healthcare,Male,Arthritis,Chicago,456 Elm St,38,35,192,388,3.5,186
+Dr. Patel,Oncology,City Hospital,Blue Cross,Male,Cancer,San Diego,303 Cedar St,26,35,346,3318,2.8,144
+Dr. Smith,Neurology,City Hospital,Medicare,Female,Asthma,San Diego,101 Oak St,68,28,234,7093,4.4,370
+Dr. Brown,Orthopedics,City Hospital,Medicare,Female,Diabetes,San Diego,202 Pine St,30,4,142,6367,4.3,149
+Dr. Jones,Neurology,Regional Medical Center,Medicaid,Male,Migraine,San Antonio,505 Spruce St,45,7,385,754,3.0,401
+Dr. Garcia,Neurology,Specialty Hospital,Blue Cross,Male,Migraine,Houston,123 Main St,29,12,211,1880,2.4,98
+Dr. Martinez,Cardiology,Health Clinic,United Healthcare,Female,COPD,Los Angeles,456 Elm St,39,26,210,1017,4.6,276
+Dr. Jones,Pediatrics,Specialty Hospital,Medicare,Male,Asthma,Phoenix,404 Birch St,58,31,152,6343,2.3,51
+Dr. Jones,Ophthalmology,Health Clinic,United Healthcare,Female,Hypertension,Philadelphia,456 Elm St,27,37,315,4131,2.5,323
+Dr. Williams,Orthopedics,Health Clinic,Blue Cross,Female,Hypertension,Philadelphia,606 Walnut St,65,22,208,1579,3.6,174
+Dr. Garcia,Orthopedics,Regional Medical Center,Blue Cross,Female,Migraine,Los Angeles,707 Chestnut St,65,31,431,2280,2.3,464
+Dr. Martinez,Cardiology,City Hospital,Aetna,Female,Migraine,Philadelphia,789 Maple Ave,57,15,325,1030,4.3,57
+Dr. Johnson,Gastroenterology,Health Clinic,Cigna,Male,Cancer,Dallas,303 Cedar St,54,18,145,6499,3.9,49
+Dr. Jones,Pediatrics,Specialty Hospital,Blue Cross,Male,Migraine,San Jose,404 Birch St,51,27,294,9036,4.0,20
+Dr. Johnson,Oncology,Specialty Hospital,United Healthcare,Male,Diabetes,Houston,101 Oak St,20,27,236,4564,3.0,485
+Dr. Garcia,Pediatrics,Health Clinic,Blue Cross,Female,Arthritis,San Jose,202 Pine St,24,38,424,2394,3.3,13
+Dr. Lee,Dermatology,Specialty Hospital,Medicaid,Male,Depression,Houston,789 Maple Ave,63,37,344,1196,4.8,297
+Dr. Williams,Dermatology,City Hospital,Medicaid,Female,Obesity,Houston,101 Oak St,63,40,415,5377,3.1,87
+Dr. Johnson,Ophthalmology,Regional Medical Center,Medicare,Male,Migraine,Los Angeles,101 Oak St,50,31,219,3354,2.2,308
+Dr. Jones,Oncology,Specialty Hospital,Medicare,Male,Depression,Dallas,505 Spruce St,49,4,429,5458,1.0,138
+Dr. Miller,Dermatology,Health Clinic,Aetna,Male,Heart Disease,Chicago,303 Cedar St,42,27,214,8943,4.4,456
+Dr. Smith,Gastroenterology,Specialty Hospital,United Healthcare,Male,Cancer,Phoenix,202 Pine St,59,7,240,2607,3.7,150
+Dr. Garcia,Oncology,City Hospital,Blue Cross,Female,Diabetes,San Antonio,707 Chestnut St,62,38,120,3766,3.6,272
+Dr. Brown,Oncology,City Hospital,Blue Cross,Female,Depression,Los Angeles,303 Cedar St,29,17,296,3804,4.7,372
+Dr. Lee,Dermatology,City Hospital,Medicare,Male,Hypertension,Philadelphia,707 Chestnut St,28,26,318,8748,1.9,56
+Dr. Martinez,Pediatrics,City Hospital,Cigna,Female,Depression,Chicago,303 Cedar St,27,3,234,6048,2.2,61
+Dr. Lee,Gastroenterology,City Hospital,Blue Cross,Female,Hypertension,New York,101 Oak St,23,23,326,1091,1.5,230
+Dr. Miller,Neurology,Specialty Hospital,United Healthcare,Male,Arthritis,Houston,606 Walnut St,62,5,250,7287,3.5,259
+Dr. Smith,Cardiology,Regional Medical Center,Aetna,Male,Migraine,Dallas,789 Maple Ave,34,17,406,8181,1.3,313
+Dr. Martinez,Gastroenterology,Specialty Hospital,Aetna,Male,Diabetes,Los Angeles,707 Chestnut St,60,9,245,8470,2.4,358
+Dr. Garcia,Gastroenterology,Regional Medical Center,United Healthcare,Female,Depression,San Jose,789 Maple Ave,22,15,219,4195,4.6,218
+Dr. Martinez,Dermatology,General Hospital,Medicare,Male,Asthma,Phoenix,101 Oak St,33,9,293,526,3.3,86
+Dr. Miller,Orthopedics,City Hospital,Medicaid,Female,Asthma,Philadelphia,707 Chestnut St,66,30,138,4684,4.8,115
+Dr. Garcia,Dermatology,Specialty Hospital,Blue Cross,Female,COPD,Chicago,404 Birch St,57,28,395,2876,3.2,374
+Dr. Brown,Gastroenterology,Health Clinic,Blue Cross,Female,Migraine,San Antonio,789 Maple Ave,42,17,133,3324,2.0,203
+Dr. Martinez,Pediatrics,Regional Medical Center,Aetna,Male,Arthritis,Dallas,123 Main St,28,10,302,1176,1.4,43
+Dr. Garcia,Endocrinology,Specialty Hospital,Cigna,Female,Migraine,Chicago,404 Birch St,29,31,81,7445,3.5,309
+Dr. Brown,Gastroenterology,Regional Medical Center,Blue Cross,Female,Cancer,Houston,303 Cedar St,49,9,492,4433,4.9,342
+Dr. Jones,Gastroenterology,Regional Medical Center,Cigna,Male,Cancer,San Antonio,606 Walnut St,56,10,59,8751,4.9,192
+Dr. Jones,Endocrinology,City Hospital,United Healthcare,Female,Cancer,San Diego,202 Pine St,70,25,174,3817,4.0,262
+Dr. Martinez,Gastroenterology,City Hospital,Cigna,Male,Depression,San Jose,707 Chestnut St,48,1,185,2113,3.8,406
+Dr. Smith,Cardiology,General Hospital,Cigna,Male,Migraine,San Jose,505 Spruce St,54,21,283,7840,2.4,193
+Dr. Patel,Pediatrics,Health Clinic,Blue Cross,Male,Hypertension,San Jose,707 Chestnut St,69,13,83,9710,4.1,430
+Dr. Miller,Orthopedics,Health Clinic,United Healthcare,Male,COPD,New York,707 Chestnut St,43,36,169,8912,2.0,138
+Dr. Lee,Cardiology,Specialty Hospital,Medicare,Male,COPD,Houston,303 Cedar St,39,24,281,8693,3.6,121
+Dr. Patel,Endocrinology,City Hospital,United Healthcare,Male,Arthritis,New York,123 Main St,23,28,131,9479,4.7,23
+Dr. Garcia,Orthopedics,Regional Medical Center,Medicare,Male,Asthma,New York,707 Chestnut St,48,28,74,8290,4.9,94
+Dr. Miller,Pediatrics,Specialty Hospital,Blue Cross,Female,Asthma,Phoenix,404 Birch St,29,17,192,1690,1.0,316
+Dr. Johnson,Gastroenterology,Health Clinic,Cigna,Female,Hypertension,Chicago,606 Walnut St,30,20,400,7206,1.8,376
+Dr. Garcia,Ophthalmology,Regional Medical Center,Blue Cross,Female,Migraine,San Diego,606 Walnut St,65,30,164,1270,2.3,269
+Dr. Lee,Dermatology,Specialty Hospital,Medicare,Female,Depression,Chicago,505 Spruce St,22,2,500,8459,2.0,312
+Dr. Miller,Gastroenterology,Regional Medical Center,Blue Cross,Female,Depression,San Antonio,789 Maple Ave,43,30,327,7741,1.3,212
+Dr. Martinez,Neurology,City Hospital,United Healthcare,Male,Heart Disease,New York,456 Elm St,46,28,432,3279,2.9,395
+Dr. Williams,Cardiology,City Hospital,United Healthcare,Male,Obesity,Philadelphia,404 Birch St,45,35,258,3942,4.7,270
+Dr. Williams,Gastroenterology,Health Clinic,Cigna,Female,Diabetes,San Antonio,303 Cedar St,49,19,96,8939,2.7,31
+Dr. Lee,Gastroenterology,City Hospital,Cigna,Male,Hypertension,Dallas,101 Oak St,34,33,337,485,1.0,249
+Dr. Smith,Neurology,General Hospital,United Healthcare,Female,Depression,Chicago,606 Walnut St,35,2,265,269,2.3,99
+Dr. Jones,Ophthalmology,Specialty Hospital,Cigna,Female,Cancer,Phoenix,101 Oak St,25,40,236,6350,4.8,473
+Dr. Brown,Orthopedics,Health Clinic,Medicaid,Female,Heart Disease,New York,303 Cedar St,48,29,392,9165,4.2,231
+Dr. Smith,Orthopedics,Specialty Hospital,Medicaid,Female,Asthma,Chicago,456 Elm St,25,24,411,6294,2.0,282
+Dr. Miller,Pediatrics,City Hospital,Aetna,Male,Migraine,New York,789 Maple Ave,51,13,483,3211,1.2,151
+Dr. Martinez,Cardiology,Specialty Hospital,Aetna,Male,Heart Disease,San Jose,505 Spruce St,68,5,392,4851,2.6,273
+Dr. Brown,Cardiology,Health Clinic,Blue Cross,Female,Arthritis,San Jose,123 Main St,22,16,488,4874,1.5,45
+Dr. Martinez,Ophthalmology,City Hospital,Medicare,Female,Heart Disease,Dallas,707 Chestnut St,30,6,324,6354,4.5,319
+Dr. Johnson,Neurology,Specialty Hospital,Medicare,Male,Heart Disease,Houston,707 Chestnut St,62,32,326,328,2.4,290
+Dr. Martinez,Orthopedics,City Hospital,Blue Cross,Female,Diabetes,San Diego,456 Elm St,58,4,446,981,2.0,319
+Dr. Johnson,Cardiology,General Hospital,Medicare,Male,Heart Disease,Dallas,707 Chestnut St,26,40,309,9274,4.7,66
+Dr. Jones,Oncology,General Hospital,Aetna,Male,Heart Disease,Dallas,789 Maple Ave,41,22,394,9886,4.4,478
+Dr. Martinez,Endocrinology,Regional Medical Center,Blue Cross,Female,COPD,Houston,505 Spruce St,32,4,428,8624,4.8,38
+Dr. Patel,Dermatology,Specialty Hospital,United Healthcare,Female,Cancer,Dallas,505 Spruce St,48,28,55,8296,3.1,125
+Dr. Jones,Orthopedics,Specialty Hospital,Aetna,Male,Obesity,Chicago,303 Cedar St,59,18,60,1634,2.0,106
+Dr. Martinez,Cardiology,Health Clinic,Cigna,Female,Obesity,San Antonio,606 Walnut St,53,12,114,7302,4.0,115
+Dr. Jones,Psychiatry,Regional Medical Center,Cigna,Female,Arthritis,San Diego,606 Walnut St,23,10,239,4350,3.9,241
+Dr. Lee,Psychiatry,Health Clinic,Medicare,Female,Depression,New York,123 Main St,61,2,338,7826,2.1,103
+Dr. Brown,Oncology,Specialty Hospital,Cigna,Female,Obesity,Philadelphia,303 Cedar St,37,26,332,7824,3.4,415
+Dr. Johnson,Oncology,Regional Medical Center,Blue Cross,Male,Diabetes,Los Angeles,123 Main St,40,30,271,3522,1.6,462
+Dr. Patel,Orthopedics,Health Clinic,Cigna,Female,Depression,Phoenix,707 Chestnut St,21,19,483,3220,2.4,393
+Dr. Martinez,Pediatrics,General Hospital,Cigna,Male,Migraine,San Diego,789 Maple Ave,35,25,55,7947,2.1,244
+Dr. Garcia,Oncology,City Hospital,Cigna,Female,Heart Disease,Philadelphia,303 Cedar St,55,10,314,7761,3.0,168
+Dr. Brown,Ophthalmology,City Hospital,Cigna,Female,COPD,Dallas,505 Spruce St,34,11,465,2913,2.6,270
+Dr. Brown,Pediatrics,City Hospital,Medicare,Male,Diabetes,Dallas,789 Maple Ave,48,40,128,1598,3.3,498
+Dr. Patel,Psychiatry,Regional Medical Center,United Healthcare,Male,Hypertension,Phoenix,456 Elm St,52,26,321,3180,1.1,162
+Dr. Smith,Oncology,City Hospital,Medicare,Female,Depression,San Jose,123 Main St,63,34,466,3580,4.0,411
+Dr. Lee,Ophthalmology,City Hospital,Aetna,Male,Heart Disease,Chicago,101 Oak St,48,28,271,5303,1.5,222
+Dr. Jones,Oncology,Specialty Hospital,Medicare,Male,Depression,San Diego,606 Walnut St,35,40,355,3774,2.0,3
+Dr. Martinez,Cardiology,Health Clinic,United Healthcare,Female,COPD,Phoenix,456 Elm St,20,37,128,5475,4.9,275
+Dr. Lee,Gastroenterology,Specialty Hospital,Cigna,Female,Depression,Los Angeles,101 Oak St,33,15,376,7806,4.3,183
+Dr. Smith,Psychiatry,City Hospital,Cigna,Male,Hypertension,Los Angeles,404 Birch St,37,23,259,2869,1.8,453
+Dr. Garcia,Dermatology,Regional Medical Center,United Healthcare,Female,Obesity,Houston,101 Oak St,64,3,375,4141,1.4,480
+Dr. Johnson,Psychiatry,Regional Medical Center,Cigna,Female,Arthritis,Chicago,707 Chestnut St,62,30,140,7058,3.0,262
+Dr. Brown,Oncology,Health Clinic,Medicare,Male,Arthritis,San Diego,404 Birch St,45,13,389,5252,3.8,107
+Dr. Johnson,Psychiatry,Regional Medical Center,Aetna,Female,Diabetes,Houston,789 Maple Ave,22,19,477,137,4.2,221
+Dr. Smith,Psychiatry,Specialty Hospital,Aetna,Female,Depression,Chicago,456 Elm St,59,4,76,8878,3.7,136
+Dr. Martinez,Gastroenterology,City Hospital,Medicare,Male,Arthritis,Dallas,789 Maple Ave,60,1,451,5996,4.9,360
+Dr. Martinez,Psychiatry,Regional Medical Center,Aetna,Male,Obesity,New York,789 Maple Ave,55,4,129,3531,1.9,450
+Dr. Jones,Gastroenterology,City Hospital,Cigna,Female,Depression,San Diego,123 Main St,56,20,196,6852,4.1,146
+Dr. Johnson,Endocrinology,Regional Medical Center,Medicare,Female,Migraine,Chicago,456 Elm St,36,29,319,462,2.0,300
+Dr. Martinez,Endocrinology,Specialty Hospital,Blue Cross,Male,Migraine,San Diego,404 Birch St,57,36,461,5414,3.6,41
+Dr. Brown,Gastroenterology,Regional Medical Center,Cigna,Female,Arthritis,Chicago,505 Spruce St,37,6,455,9172,2.3,337
+Dr. Smith,Neurology,General Hospital,Cigna,Male,Cancer,Phoenix,202 Pine St,48,39,84,2851,2.2,168
+Dr. Brown,Psychiatry,City Hospital,Medicare,Male,Asthma,Philadelphia,707 Chestnut St,65,36,73,4960,3.2,337
+Dr. Lee,Cardiology,Health Clinic,Cigna,Female,Asthma,Chicago,707 Chestnut St,29,22,75,7400,4.8,108
+Dr. Williams,Neurology,City Hospital,Medicare,Male,Heart Disease,San Diego,101 Oak St,26,33,361,8492,2.5,56
+Dr. Smith,Oncology,Specialty Hospital,Aetna,Male,Arthritis,Dallas,101 Oak St,46,16,390,4644,4.4,173
+Dr. Lee,Dermatology,Regional Medical Center,United Healthcare,Female,Obesity,Houston,606 Walnut St,63,33,59,3906,3.2,56
+Dr. Jones,Gastroenterology,General Hospital,Blue Cross,Male,Obesity,San Diego,707 Chestnut St,42,38,91,703,1.1,20
+Dr. Garcia,Pediatrics,City Hospital,Blue Cross,Male,Migraine,San Jose,707 Chestnut St,33,34,435,6038,4.6,247
+Dr. Garcia,Ophthalmology,Specialty Hospital,Medicaid,Male,Arthritis,San Diego,123 Main St,47,1,124,1613,1.6,215
+Dr. Martinez,Oncology,Specialty Hospital,United Healthcare,Female,Obesity,New York,303 Cedar St,39,27,417,7129,3.3,3
+Dr. Patel,Cardiology,Health Clinic,Blue Cross,Male,Arthritis,New York,303 Cedar St,64,12,217,1752,4.0,334
+Dr. Lee,Cardiology,General Hospital,Aetna,Female,Diabetes,Dallas,789 Maple Ave,32,25,145,3021,3.9,49
+Dr. Johnson,Endocrinology,City Hospital,Blue Cross,Female,Heart Disease,New York,707 Chestnut St,27,24,458,2848,4.5,41
+Dr. Williams,Orthopedics,Health Clinic,Blue Cross,Female,Obesity,Phoenix,123 Main St,25,40,162,6287,2.6,323
+Dr. Williams,Pediatrics,City Hospital,Medicare,Female,Diabetes,Dallas,707 Chestnut St,37,6,96,4351,3.3,362
+Dr. Martinez,Gastroenterology,Regional Medical Center,United Healthcare,Female,Diabetes,New York,456 Elm St,21,28,271,3499,3.5,272
+Dr. Brown,Dermatology,City Hospital,Medicare,Male,Heart Disease,Philadelphia,202 Pine St,46,40,260,3735,4.8,164
+Dr. Jones,Psychiatry,Regional Medical Center,Medicare,Female,Obesity,Philadelphia,303 Cedar St,41,22,206,567,1.1,65
+Dr. Miller,Ophthalmology,General Hospital,Medicare,Male,Obesity,Los Angeles,123 Main St,50,25,424,8121,3.6,93
+Dr. Martinez,Dermatology,Specialty Hospital,United Healthcare,Male,Arthritis,Philadelphia,303 Cedar St,56,36,212,1952,1.9,468
+Dr. Williams,Cardiology,General Hospital,Aetna,Female,Depression,San Antonio,505 Spruce St,57,8,238,1963,3.5,474
+Dr. Brown,Psychiatry,Health Clinic,Aetna,Female,Obesity,New York,123 Main St,20,34,299,8067,3.0,160
+Dr. Jones,Dermatology,City Hospital,Medicare,Male,Diabetes,Los Angeles,505 Spruce St,50,6,440,9072,2.4,430
+Dr. Jones,Gastroenterology,Specialty Hospital,Blue Cross,Female,Asthma,San Jose,101 Oak St,28,12,273,1272,3.6,360
+Dr. Brown,Pediatrics,Regional Medical Center,Cigna,Female,Depression,San Jose,456 Elm St,23,8,275,2450,3.5,400
+Dr. Lee,Psychiatry,Specialty Hospital,Aetna,Female,Hypertension,San Diego,606 Walnut St,52,11,50,1904,3.1,484
+Dr. Brown,Gastroenterology,City Hospital,Medicare,Female,Arthritis,Phoenix,505 Spruce St,41,30,162,709,4.4,212
+Dr. Miller,Neurology,Regional Medical Center,Cigna,Female,Migraine,San Antonio,404 Birch St,27,7,483,5792,1.6,367
+Dr. Williams,Pediatrics,General Hospital,Blue Cross,Female,Diabetes,Los Angeles,404 Birch St,38,39,480,3736,2.3,480
+Dr. Lee,Ophthalmology,Specialty Hospital,Medicare,Male,COPD,Houston,123 Main St,43,4,218,304,3.7,247
+Dr. Lee,Ophthalmology,Health Clinic,Blue Cross,Male,Asthma,Phoenix,789 Maple Ave,68,5,292,531,2.7,380
+Dr. Brown,Ophthalmology,General Hospital,Medicare,Male,Asthma,Chicago,404 Birch St,26,13,70,7146,1.5,333
+Dr. Johnson,Endocrinology,Specialty Hospital,Blue Cross,Male,Depression,San Antonio,789 Maple Ave,43,17,414,3084,1.1,217
+Dr. Miller,Endocrinology,Health Clinic,Aetna,Male,Asthma,Houston,505 Spruce St,63,19,453,8065,2.1,458
+Dr. Smith,Gastroenterology,City Hospital,United Healthcare,Female,Heart Disease,San Antonio,789 Maple Ave,62,39,457,8466,1.1,489
+Dr. Johnson,Cardiology,Regional Medical Center,Medicare,Male,Asthma,Dallas,101 Oak St,61,3,105,9984,4.4,150
+Dr. Patel,Gastroenterology,General Hospital,United Healthcare,Male,Cancer,San Antonio,456 Elm St,66,14,325,2414,2.2,438
+Dr. Miller,Oncology,Health Clinic,United Healthcare,Male,Migraine,San Antonio,202 Pine St,45,1,383,4745,1.5,31
+Dr. Johnson,Cardiology,General Hospital,Medicare,Female,Depression,San Jose,789 Maple Ave,52,34,272,9706,2.9,134
+Dr. Jones,Psychiatry,Specialty Hospital,Aetna,Female,Diabetes,New York,789 Maple Ave,37,26,172,8683,1.8,22
+Dr. Patel,Gastroenterology,Regional Medical Center,Aetna,Male,Migraine,San Jose,789 Maple Ave,67,10,278,7221,4.4,260
+Dr. Johnson,Cardiology,Health Clinic,Blue Cross,Male,Heart Disease,Los Angeles,101 Oak St,22,8,442,6873,2.0,279
+Dr. Jones,Pediatrics,General Hospital,Medicare,Male,Obesity,San Diego,404 Birch St,67,26,494,8363,1.3,222
+Dr. Miller,Gastroenterology,Specialty Hospital,Medicare,Male,COPD,Phoenix,505 Spruce St,57,11,327,4708,4.0,258
+Dr. Martinez,Cardiology,City Hospital,Medicare,Male,COPD,San Diego,505 Spruce St,24,12,92,666,3.0,63
+Dr. Williams,Psychiatry,General Hospital,Cigna,Female,Arthritis,San Antonio,707 Chestnut St,23,1,117,8113,2.3,398
+Dr. Johnson,Oncology,Specialty Hospital,Blue Cross,Male,Diabetes,Chicago,606 Walnut St,63,35,412,4189,3.0,230
+Dr. Williams,Cardiology,City Hospital,United Healthcare,Female,Asthma,San Antonio,606 Walnut St,34,31,213,2932,1.8,439
+Dr. Miller,Pediatrics,Regional Medical Center,Medicare,Male,Heart Disease,Phoenix,123 Main St,38,40,486,7022,2.5,420
+Dr. Smith,Ophthalmology,General Hospital,Blue Cross,Female,Diabetes,Dallas,456 Elm St,30,35,313,2773,1.3,113
+Dr. Jones,Cardiology,Specialty Hospital,Aetna,Female,Asthma,Dallas,123 Main St,63,20,155,4632,4.0,22
+Dr. Brown,Neurology,City Hospital,Medicare,Female,Diabetes,Houston,123 Main St,36,22,190,5490,2.3,412
+Dr. Johnson,Dermatology,Health Clinic,Blue Cross,Male,Depression,San Diego,707 Chestnut St,60,8,353,6616,3.8,175
+Dr. Garcia,Gastroenterology,City Hospital,United Healthcare,Male,Diabetes,Dallas,606 Walnut St,20,22,466,3451,2.0,284
+Dr. Lee,Pediatrics,General Hospital,Blue Cross,Female,COPD,Phoenix,789 Maple Ave,35,12,291,671,4.6,325
+Dr. Williams,Neurology,Specialty Hospital,Blue Cross,Female,Diabetes,Phoenix,303 Cedar St,32,16,418,2192,1.2,295
+Dr. Johnson,Pediatrics,City Hospital,United Healthcare,Female,Obesity,Los Angeles,456 Elm St,27,16,469,4263,4.0,365
+Dr. Smith,Neurology,City Hospital,United Healthcare,Male,Migraine,New York,606 Walnut St,58,14,164,109,4.2,12
+Dr. Williams,Ophthalmology,City Hospital,Cigna,Female,Hypertension,San Jose,404 Birch St,23,21,422,8462,3.7,228
+Dr. Miller,Dermatology,Regional Medical Center,Aetna,Female,Obesity,Dallas,303 Cedar St,57,13,86,10000,1.6,259
+Dr. Lee,Oncology,City Hospital,Blue Cross,Male,Diabetes,Phoenix,789 Maple Ave,70,17,105,2900,4.2,332
+Dr. Smith,Cardiology,Health Clinic,Blue Cross,Male,Asthma,San Diego,789 Maple Ave,58,27,227,4931,5.0,358
+Dr. Smith,Oncology,Regional Medical Center,Blue Cross,Female,COPD,San Antonio,123 Main St,65,29,104,6494,1.3,420
+Dr. Garcia,Dermatology,Health Clinic,Aetna,Female,Heart Disease,San Antonio,303 Cedar St,30,26,71,1474,1.3,445
+Dr. Brown,Ophthalmology,Health Clinic,Cigna,Male,Arthritis,San Jose,707 Chestnut St,31,17,475,5259,1.4,412
+Dr. Smith,Cardiology,Specialty Hospital,Aetna,Female,Obesity,San Antonio,404 Birch St,46,17,373,1833,1.8,154
+Dr. Smith,Neurology,Regional Medical Center,Blue Cross,Female,COPD,San Antonio,505 Spruce St,60,23,244,9100,3.5,162
+Dr. Miller,Ophthalmology,Regional Medical Center,Cigna,Male,Obesity,San Diego,606 Walnut St,25,15,486,4673,2.0,285
+Dr. Jones,Oncology,City Hospital,United Healthcare,Male,Heart Disease,New York,707 Chestnut St,25,2,175,8906,1.3,15
+Dr. Lee,Psychiatry,General Hospital,Aetna,Female,COPD,Chicago,101 Oak St,56,4,211,9301,1.8,379
+Dr. Patel,Psychiatry,Regional Medical Center,United Healthcare,Male,Diabetes,San Antonio,123 Main St,20,36,374,8762,3.8,212
+Dr. Smith,Neurology,Regional Medical Center,Cigna,Female,Hypertension,Philadelphia,505 Spruce St,55,35,73,6294,3.3,344
+Dr. Miller,Endocrinology,Regional Medical Center,United Healthcare,Female,Diabetes,New York,789 Maple Ave,56,19,243,3643,3.3,286
+Dr. Brown,Cardiology,City Hospital,Medicaid,Female,Hypertension,San Jose,303 Cedar St,22,16,85,7271,1.7,141
+Dr. Brown,Dermatology,Health Clinic,Blue Cross,Male,Obesity,Houston,789 Maple Ave,44,34,225,9588,4.3,354
+Dr. Martinez,Ophthalmology,City Hospital,Blue Cross,Female,Arthritis,Philadelphia,404 Birch St,38,15,81,6077,2.7,185
+Dr. Miller,Pediatrics,City Hospital,United Healthcare,Male,Arthritis,San Antonio,123 Main St,56,26,455,9719,2.7,164
+Dr. Smith,Cardiology,Regional Medical Center,Blue Cross,Male,Asthma,San Antonio,202 Pine St,42,2,156,9358,1.3,304
+Dr. Smith,Orthopedics,Regional Medical Center,Medicare,Female,Cancer,Los Angeles,606 Walnut St,46,36,199,4568,3.7,59
+Dr. Martinez,Ophthalmology,Specialty Hospital,Aetna,Male,Depression,San Antonio,707 Chestnut St,63,32,404,1745,1.5,301
+Dr. Martinez,Cardiology,Regional Medical Center,United Healthcare,Female,Heart Disease,Philadelphia,707 Chestnut St,61,34,416,3094,4.3,103
+Dr. Brown,Oncology,City Hospital,United Healthcare,Female,Cancer,Philadelphia,707 Chestnut St,31,38,146,1902,4.1,292
+Dr. Martinez,Oncology,Regional Medical Center,United Healthcare,Male,Heart Disease,Chicago,202 Pine St,58,5,474,6128,3.6,365
+Dr. Williams,Pediatrics,Specialty Hospital,United Healthcare,Male,Diabetes,Houston,789 Maple Ave,59,25,440,8283,4.8,326
+Dr. Smith,Cardiology,General Hospital,Cigna,Female,Hypertension,San Diego,505 Spruce St,47,24,133,6221,4.0,331
+Dr. Lee,Neurology,Health Clinic,Medicare,Female,COPD,Philadelphia,606 Walnut St,62,7,61,3752,3.8,454
+Dr. Lee,Orthopedics,City Hospital,Aetna,Female,Depression,Phoenix,456 Elm St,37,4,364,7604,3.2,265
+Dr. Patel,Pediatrics,Health Clinic,Aetna,Male,Heart Disease,San Diego,606 Walnut St,67,10,301,5336,1.6,471
+Dr. Garcia,Neurology,Regional Medical Center,Cigna,Female,COPD,Houston,606 Walnut St,47,17,481,6666,4.6,30
+Dr. Williams,Pediatrics,Regional Medical Center,Cigna,Female,COPD,Phoenix,303 Cedar St,36,9,446,7631,2.8,473
+Dr. Martinez,Oncology,General Hospital,Cigna,Male,Obesity,Philadelphia,707 Chestnut St,63,11,370,6211,3.3,42
+Dr. Patel,Dermatology,Health Clinic,United Healthcare,Female,Diabetes,Chicago,303 Cedar St,70,13,337,5680,2.2,66
+Dr. Johnson,Dermatology,Specialty Hospital,Cigna,Male,Obesity,Houston,202 Pine St,42,21,390,7100,1.6,291
+Dr. Williams,Gastroenterology,Specialty Hospital,Medicaid,Male,Arthritis,San Antonio,303 Cedar St,57,18,374,6090,2.9,349
+Dr. Garcia,Cardiology,General Hospital,Medicare,Male,Heart Disease,San Diego,404 Birch St,20,26,482,531,3.7,73
+Dr. Patel,Endocrinology,City Hospital,United Healthcare,Female,Hypertension,New York,303 Cedar St,23,18,84,1235,4.5,413
+Dr. Lee,Pediatrics,Regional Medical Center,Cigna,Female,Diabetes,Houston,303 Cedar St,42,24,256,4561,2.2,44
+Dr. Brown,Orthopedics,Specialty Hospital,Aetna,Male,Heart Disease,San Diego,202 Pine St,32,33,167,226,4.4,356
+Dr. Jones,Gastroenterology,General Hospital,United Healthcare,Female,Cancer,San Jose,303 Cedar St,59,8,409,2408,1.9,235
+Dr. Patel,Pediatrics,City Hospital,Cigna,Female,Obesity,San Antonio,789 Maple Ave,42,9,415,6330,2.9,349
+Dr. Garcia,Oncology,City Hospital,Aetna,Female,Migraine,Houston,707 Chestnut St,53,9,472,6543,3.5,349
+Dr. Garcia,Ophthalmology,Specialty Hospital,Medicare,Male,Diabetes,Houston,606 Walnut St,31,24,260,9735,4.7,95
+Dr. Lee,Neurology,City Hospital,Aetna,Female,Hypertension,Houston,101 Oak St,42,39,173,165,4.9,281
+Dr. Patel,Ophthalmology,Regional Medical Center,United Healthcare,Male,COPD,Philadelphia,101 Oak St,55,22,159,8592,4.1,349
+Dr. Johnson,Neurology,Health Clinic,Blue Cross,Male,COPD,Houston,101 Oak St,50,20,159,2551,3.4,168
+Dr. Martinez,Dermatology,General Hospital,Medicare,Female,Migraine,Houston,606 Walnut St,67,39,443,8709,3.5,76
+Dr. Johnson,Ophthalmology,Health Clinic,Blue Cross,Male,Cancer,San Antonio,707 Chestnut St,21,9,187,7477,1.4,51
+Dr. Williams,Orthopedics,Regional Medical Center,Medicare,Female,Migraine,Dallas,202 Pine St,56,23,442,9161,1.9,429
+Dr. Lee,Oncology,City Hospital,Medicare,Female,Hypertension,Dallas,123 Main St,56,18,68,7144,4.6,492
+Dr. Miller,Pediatrics,City Hospital,Blue Cross,Male,COPD,New York,505 Spruce St,55,19,179,8204,4.2,453
+Dr. Miller,Gastroenterology,City Hospital,Aetna,Male,Cancer,Phoenix,707 Chestnut St,63,20,306,4089,3.9,362
+Dr. Smith,Oncology,Specialty Hospital,Aetna,Male,Depression,Philadelphia,789 Maple Ave,47,36,54,2668,1.5,211
+Dr. Jones,Dermatology,City Hospital,Cigna,Female,COPD,New York,101 Oak St,43,19,184,6575,3.5,74
+Dr. Garcia,Cardiology,City Hospital,Medicare,Female,Cancer,Chicago,303 Cedar St,44,9,379,5042,3.2,22
+Dr. Johnson,Gastroenterology,City Hospital,United Healthcare,Male,Hypertension,San Diego,404 Birch St,63,20,264,2095,3.7,25
+Dr. Smith,Psychiatry,Specialty Hospital,United Healthcare,Female,COPD,Philadelphia,404 Birch St,57,39,62,133,3.4,315
+Dr. Martinez,Dermatology,City Hospital,Aetna,Male,COPD,Philadelphia,123 Main St,41,38,59,3069,2.8,299
+Dr. Miller,Dermatology,Specialty Hospital,Aetna,Male,Heart Disease,Los Angeles,303 Cedar St,45,36,478,548,2.5,430
+Dr. Brown,Endocrinology,Specialty Hospital,Aetna,Male,Depression,Los Angeles,789 Maple Ave,47,27,181,6010,4.4,284
+Dr. Patel,Gastroenterology,Regional Medical Center,United Healthcare,Male,Diabetes,Phoenix,123 Main St,40,22,245,3335,1.8,205
+Dr. Garcia,Orthopedics,Regional Medical Center,Cigna,Female,Migraine,San Jose,123 Main St,68,27,373,3247,2.5,63
+Dr. Smith,Pediatrics,Health Clinic,Aetna,Female,Diabetes,San Antonio,101 Oak St,51,33,228,1819,2.0,407
+Dr. Lee,Psychiatry,Health Clinic,Blue Cross,Female,Migraine,Dallas,789 Maple Ave,39,12,413,222,2.0,350
+Dr. Williams,Ophthalmology,Regional Medical Center,Cigna,Male,Hypertension,San Jose,404 Birch St,69,34,485,1925,3.1,55
+Dr. Martinez,Dermatology,Health Clinic,Blue Cross,Male,Arthritis,Phoenix,707 Chestnut St,68,31,444,6253,4.4,325
+Dr. Johnson,Dermatology,Specialty Hospital,Aetna,Male,Hypertension,Phoenix,202 Pine St,52,32,366,9371,4.5,475
+Dr. Miller,Endocrinology,Regional Medical Center,United Healthcare,Female,Asthma,San Jose,707 Chestnut St,57,3,161,6972,2.4,120
+Dr. Patel,Gastroenterology,Health Clinic,Cigna,Male,Obesity,Dallas,505 Spruce St,31,19,84,5035,1.7,478
+Dr. Martinez,Dermatology,City Hospital,Cigna,Male,Cancer,Los Angeles,404 Birch St,45,18,111,4800,4.2,421
+Dr. Patel,Oncology,City Hospital,Aetna,Male,Diabetes,New York,789 Maple Ave,49,3,278,6575,1.1,377
+Dr. Miller,Orthopedics,City Hospital,Cigna,Male,Hypertension,Chicago,456 Elm St,46,38,415,7493,4.3,274
+Dr. Smith,Neurology,Regional Medical Center,Medicare,Female,Diabetes,San Diego,456 Elm St,57,18,421,9363,2.1,36
+Dr. Patel,Gastroenterology,City Hospital,Medicare,Female,Obesity,Philadelphia,303 Cedar St,24,36,338,2875,3.3,219
+Dr. Smith,Orthopedics,Specialty Hospital,Aetna,Male,COPD,Chicago,202 Pine St,27,22,233,7402,4.8,390
+Dr. Patel,Psychiatry,Regional Medical Center,Medicaid,Female,Obesity,Dallas,456 Elm St,25,9,430,6286,4.6,284
+Dr. Jones,Orthopedics,General Hospital,United Healthcare,Female,Depression,San Antonio,123 Main St,48,10,70,7580,3.6,76
+Dr. Patel,Orthopedics,Regional Medical Center,United Healthcare,Female,Hypertension,Houston,202 Pine St,32,29,213,7322,1.9,415
+Dr. Smith,Oncology,General Hospital,Medicaid,Male,Depression,Los Angeles,707 Chestnut St,39,20,452,6200,3.1,176
+Dr. Williams,Ophthalmology,General Hospital,Cigna,Female,Asthma,New York,123 Main St,30,16,217,6770,3.3,56
+Dr. Miller,Neurology,Health Clinic,Medicare,Female,Obesity,Philadelphia,202 Pine St,31,29,184,5980,3.5,131
+Dr. Patel,Neurology,City Hospital,Aetna,Female,COPD,Los Angeles,789 Maple Ave,22,26,284,8028,1.7,51
+Dr. Johnson,Psychiatry,General Hospital,Blue Cross,Male,Heart Disease,Dallas,123 Main St,38,4,100,8174,4.3,120
+Dr. Brown,Gastroenterology,General Hospital,Aetna,Female,Migraine,Philadelphia,202 Pine St,58,27,92,7352,2.4,61
+Dr. Garcia,Neurology,General Hospital,Cigna,Male,Diabetes,San Antonio,789 Maple Ave,36,23,68,5375,3.5,430
+Dr. Martinez,Neurology,Specialty Hospital,United Healthcare,Male,Diabetes,Phoenix,404 Birch St,41,11,355,3930,4.8,390
+Dr. Jones,Endocrinology,Specialty Hospital,Aetna,Female,Obesity,Phoenix,202 Pine St,21,28,425,5692,2.8,86
+Dr. Lee,Cardiology,Health Clinic,Medicare,Male,Depression,Dallas,202 Pine St,34,40,94,5733,3.5,250
+Dr. Miller,Endocrinology,Health Clinic,Aetna,Female,Depression,San Diego,789 Maple Ave,45,8,91,1495,3.7,83
+Dr. Martinez,Ophthalmology,Health Clinic,Blue Cross,Male,Obesity,Houston,303 Cedar St,38,25,452,4957,2.6,404
+Dr. Jones,Gastroenterology,Health Clinic,Medicaid,Male,Diabetes,San Diego,505 Spruce St,46,13,127,7059,1.4,397
+Dr. Smith,Pediatrics,Regional Medical Center,United Healthcare,Female,Obesity,New York,303 Cedar St,69,33,280,176,4.2,494
+Dr. Miller,Psychiatry,City Hospital,United Healthcare,Male,Hypertension,Los Angeles,707 Chestnut St,52,39,496,1476,1.5,149
+Dr. Lee,Orthopedics,Specialty Hospital,Blue Cross,Female,Asthma,Chicago,202 Pine St,51,29,142,1189,2.6,133
+Dr. Martinez,Dermatology,General Hospital,Blue Cross,Male,Obesity,Philadelphia,101 Oak St,49,12,270,3661,2.2,229
+Dr. Patel,Neurology,General Hospital,United Healthcare,Male,Obesity,San Antonio,101 Oak St,56,36,269,9302,1.3,191
+Dr. Garcia,Psychiatry,Specialty Hospital,Cigna,Female,Diabetes,San Diego,456 Elm St,33,34,423,683,1.5,125
+Dr. Lee,Pediatrics,City Hospital,Medicare,Male,Heart Disease,San Jose,789 Maple Ave,22,31,371,9378,2.0,147
+Dr. Smith,Psychiatry,Regional Medical Center,Blue Cross,Male,Arthritis,Houston,707 Chestnut St,68,4,67,4607,4.1,188
+Dr. Jones,Orthopedics,Health Clinic,Aetna,Female,Migraine,Houston,123 Main St,47,14,301,9923,3.7,420
+Dr. Miller,Orthopedics,Health Clinic,United Healthcare,Female,Hypertension,Los Angeles,789 Maple Ave,21,22,166,478,3.6,490
+Dr. Garcia,Endocrinology,Health Clinic,Blue Cross,Female,Diabetes,New York,303 Cedar St,60,5,344,703,4.5,217
+Dr. Williams,Ophthalmology,General Hospital,Medicaid,Male,Depression,Houston,456 Elm St,57,26,479,7712,4.1,426
+Dr. Johnson,Neurology,Health Clinic,Blue Cross,Female,Depression,Phoenix,505 Spruce St,33,17,389,8874,3.8,160
+Dr. Martinez,Cardiology,Regional Medical Center,Aetna,Female,Hypertension,Phoenix,456 Elm St,34,28,174,9293,4.7,365
+Dr. Williams,Orthopedics,City Hospital,Blue Cross,Male,Arthritis,Chicago,404 Birch St,40,19,389,1211,2.7,40
+Dr. Brown,Psychiatry,Specialty Hospital,United Healthcare,Male,Depression,Houston,202 Pine St,44,39,75,4805,1.8,103
+Dr. Brown,Pediatrics,City Hospital,Medicare,Male,Depression,San Antonio,505 Spruce St,47,37,237,7445,1.1,179
+Dr. Garcia,Oncology,Health Clinic,Medicaid,Female,Migraine,Los Angeles,606 Walnut St,42,9,173,1268,1.1,362
+Dr. Miller,Gastroenterology,Regional Medical Center,Cigna,Male,Arthritis,Philadelphia,456 Elm St,44,5,63,4952,2.6,107
+Dr. Miller,Psychiatry,Health Clinic,United Healthcare,Female,Diabetes,Phoenix,303 Cedar St,49,39,147,5271,3.9,89
+Dr. Garcia,Endocrinology,Specialty Hospital,Medicare,Female,Diabetes,San Jose,456 Elm St,41,5,108,7618,1.3,296
+Dr. Brown,Orthopedics,General Hospital,Medicare,Male,Heart Disease,New York,707 Chestnut St,50,15,171,8671,3.7,483
+Dr. Brown,Dermatology,Regional Medical Center,Medicare,Male,Migraine,Dallas,606 Walnut St,33,36,420,4446,2.9,391
+Dr. Martinez,Psychiatry,Regional Medical Center,Blue Cross,Male,Arthritis,Phoenix,123 Main St,64,7,139,5683,2.8,183
+Dr. Jones,Oncology,Specialty Hospital,Aetna,Male,Depression,San Antonio,789 Maple Ave,34,37,342,9525,4.4,463
+Dr. Smith,Gastroenterology,Regional Medical Center,Cigna,Female,Depression,San Antonio,505 Spruce St,30,8,369,658,3.4,233
+Dr. Smith,Neurology,Regional Medical Center,United Healthcare,Female,Migraine,Philadelphia,606 Walnut St,41,25,358,958,2.5,104
+Dr. Jones,Pediatrics,City Hospital,Blue Cross,Male,Migraine,New York,707 Chestnut St,36,4,428,6980,4.0,351
+Dr. Jones,Endocrinology,General Hospital,Blue Cross,Male,Heart Disease,Los Angeles,707 Chestnut St,43,22,425,8885,3.8,313
+Dr. Garcia,Cardiology,Health Clinic,Cigna,Male,Arthritis,Phoenix,123 Main St,21,18,303,2018,2.1,159
+Dr. Johnson,Dermatology,City Hospital,Aetna,Male,Arthritis,New York,707 Chestnut St,62,36,114,3617,1.4,192
+Dr. Brown,Psychiatry,Regional Medical Center,Aetna,Female,Heart Disease,Dallas,101 Oak St,44,5,181,9677,3.1,27
+Dr. Miller,Orthopedics,Regional Medical Center,Medicare,Male,COPD,San Jose,404 Birch St,20,37,415,2427,4.2,52
+Dr. Johnson,Dermatology,Health Clinic,Blue Cross,Male,Asthma,Philadelphia,505 Spruce St,21,9,249,2948,4.3,86
+Dr. Smith,Psychiatry,Health Clinic,Medicare,Male,Depression,Phoenix,606 Walnut St,68,3,167,3126,3.0,145
+Dr. Lee,Neurology,City Hospital,United Healthcare,Male,Cancer,Houston,123 Main St,53,21,231,2099,2.9,149
+Dr. Brown,Pediatrics,Specialty Hospital,Blue Cross,Female,Depression,New York,101 Oak St,63,19,146,5524,1.2,182
+Dr. Brown,Neurology,Specialty Hospital,Cigna,Female,Hypertension,Dallas,404 Birch St,35,29,280,1044,1.1,102
+Dr. Miller,Neurology,General Hospital,United Healthcare,Male,Asthma,Chicago,404 Birch St,66,37,374,7666,3.7,274
+Dr. Williams,Psychiatry,General Hospital,Aetna,Male,Arthritis,San Jose,789 Maple Ave,68,12,396,1364,2.0,326
+Dr. Johnson,Endocrinology,Specialty Hospital,Medicare,Female,Asthma,Dallas,606 Walnut St,64,38,463,2756,4.9,163
+Dr. Williams,Endocrinology,General Hospital,United Healthcare,Male,Diabetes,Chicago,707 Chestnut St,54,39,351,5912,1.5,407
+Dr. Martinez,Ophthalmology,General Hospital,Aetna,Female,Depression,Los Angeles,202 Pine St,48,36,72,7738,4.9,414
+Dr. Lee,Orthopedics,Regional Medical Center,Aetna,Female,Heart Disease,San Antonio,123 Main St,61,27,335,4439,1.2,174
+Dr. Jones,Dermatology,Health Clinic,Aetna,Male,Hypertension,Chicago,303 Cedar St,63,40,462,3261,4.5,36
+Dr. Garcia,Orthopedics,Specialty Hospital,Cigna,Male,Diabetes,Chicago,404 Birch St,49,24,166,4893,1.5,50
+Dr. Patel,Ophthalmology,City Hospital,Cigna,Female,Hypertension,San Jose,606 Walnut St,69,16,250,3846,2.9,465
+Dr. Johnson,Ophthalmology,Specialty Hospital,Medicare,Female,Cancer,Houston,303 Cedar St,61,17,78,6534,2.3,356
+Dr. Garcia,Gastroenterology,City Hospital,Cigna,Male,Asthma,San Antonio,789 Maple Ave,36,11,51,4556,4.6,298
+Dr. Martinez,Oncology,Specialty Hospital,United Healthcare,Female,Hypertension,Philadelphia,505 Spruce St,68,8,472,2183,3.2,175
+Dr. Johnson,Neurology,General Hospital,Medicare,Male,Obesity,Houston,707 Chestnut St,31,33,175,8605,2.4,360
+Dr. Johnson,Psychiatry,City Hospital,Medicaid,Male,Obesity,Chicago,202 Pine St,67,35,174,5421,4.1,479
+Dr. Garcia,Endocrinology,General Hospital,Medicaid,Male,Heart Disease,Los Angeles,456 Elm St,35,38,443,6351,4.3,284
+Dr. Garcia,Dermatology,City Hospital,United Healthcare,Male,Diabetes,Chicago,789 Maple Ave,59,18,494,4213,2.4,175
+Dr. Martinez,Orthopedics,Regional Medical Center,Cigna,Male,Migraine,Los Angeles,123 Main St,54,3,112,3771,5.0,128
+Dr. Williams,Dermatology,Specialty Hospital,Cigna,Female,Depression,Houston,404 Birch St,58,2,473,6932,3.7,326
+Dr. Williams,Cardiology,Regional Medical Center,Medicare,Female,Hypertension,San Jose,456 Elm St,45,27,310,5371,3.7,294
+Dr. Jones,Cardiology,Regional Medical Center,Aetna,Male,COPD,Dallas,456 Elm St,22,11,304,7103,4.6,424
+Dr. Smith,Cardiology,Specialty Hospital,Medicare,Female,COPD,Phoenix,606 Walnut St,63,38,88,9877,2.2,334
+Dr. Patel,Cardiology,Regional Medical Center,Cigna,Male,Hypertension,Phoenix,789 Maple Ave,44,15,99,7523,4.3,399
+Dr. Garcia,Ophthalmology,Regional Medical Center,Blue Cross,Male,COPD,Chicago,101 Oak St,30,24,98,6799,3.3,291
+Dr. Smith,Pediatrics,Regional Medical Center,Blue Cross,Female,Diabetes,San Diego,456 Elm St,49,37,394,1648,3.5,213
+Dr. Garcia,Orthopedics,Regional Medical Center,Blue Cross,Male,Obesity,New York,123 Main St,30,39,447,4418,4.5,150
+Dr. Williams,Dermatology,Health Clinic,Blue Cross,Female,Obesity,Chicago,303 Cedar St,44,32,350,6922,1.3,405
+Dr. Patel,Cardiology,Specialty Hospital,Medicare,Male,Diabetes,San Antonio,606 Walnut St,26,40,238,4434,1.3,326
+Dr. Jones,Endocrinology,Health Clinic,Aetna,Female,Arthritis,Phoenix,101 Oak St,42,40,335,9647,1.4,160
+Dr. Garcia,Psychiatry,Specialty Hospital,Aetna,Female,Asthma,Chicago,123 Main St,56,14,90,3371,4.6,25
+Dr. Brown,Oncology,Health Clinic,Medicaid,Female,Hypertension,Phoenix,101 Oak St,43,30,414,6986,1.4,134
+Dr. Brown,Gastroenterology,General Hospital,Medicare,Female,Arthritis,San Jose,123 Main St,28,8,204,9961,3.0,186
+Dr. Lee,Endocrinology,Specialty Hospital,Cigna,Male,Cancer,Houston,404 Birch St,65,30,386,1757,2.1,121
+Dr. Patel,Pediatrics,City Hospital,Medicare,Female,Heart Disease,San Diego,202 Pine St,63,17,239,211,2.9,249
+Dr. Miller,Orthopedics,Regional Medical Center,Aetna,Male,Asthma,San Antonio,101 Oak St,49,1,449,7130,2.6,268
+Dr. Williams,Endocrinology,Regional Medical Center,Blue Cross,Male,Heart Disease,Dallas,202 Pine St,32,17,481,2441,2.2,111
+Dr. Martinez,Ophthalmology,Specialty Hospital,United Healthcare,Male,COPD,Phoenix,202 Pine St,68,4,201,8286,2.1,116
+Dr. Brown,Dermatology,Health Clinic,Aetna,Male,COPD,Los Angeles,101 Oak St,67,1,195,6280,4.9,152
+Dr. Smith,Dermatology,Regional Medical Center,Aetna,Male,Migraine,San Antonio,505 Spruce St,31,37,411,5640,4.5,108
+Dr. Miller,Dermatology,General Hospital,Blue Cross,Female,COPD,San Diego,456 Elm St,24,33,141,9129,2.6,481
+Dr. Lee,Psychiatry,City Hospital,Cigna,Female,COPD,Los Angeles,404 Birch St,21,22,246,2059,2.0,128
+Dr. Lee,Gastroenterology,Regional Medical Center,United Healthcare,Female,Heart Disease,Houston,456 Elm St,28,11,383,2770,2.7,309
+Dr. Martinez,Psychiatry,Regional Medical Center,Blue Cross,Male,Depression,Chicago,303 Cedar St,21,27,439,7145,1.4,114
+Dr. Miller,Cardiology,General Hospital,United Healthcare,Female,Diabetes,Philadelphia,505 Spruce St,24,39,328,3221,3.7,24
+Dr. Williams,Psychiatry,Specialty Hospital,Blue Cross,Male,Diabetes,San Antonio,707 Chestnut St,58,3,326,193,3.6,459
+Dr. Brown,Ophthalmology,Specialty Hospital,Cigna,Male,Heart Disease,Philadelphia,123 Main St,53,24,71,7905,2.1,191
+Dr. Smith,Cardiology,Regional Medical Center,Medicare,Male,Heart Disease,San Jose,707 Chestnut St,60,2,343,4682,1.9,81
+Dr. Johnson,Orthopedics,City Hospital,Cigna,Male,Asthma,Houston,123 Main St,32,13,232,8550,1.8,41
+Dr. Jones,Dermatology,Regional Medical Center,Medicare,Female,Diabetes,Houston,303 Cedar St,68,25,382,4792,2.7,215
+Dr. Miller,Ophthalmology,Specialty Hospital,Aetna,Female,Arthritis,Dallas,789 Maple Ave,48,2,94,5811,2.2,454
+Dr. Patel,Psychiatry,City Hospital,United Healthcare,Male,Asthma,Philadelphia,505 Spruce St,68,10,312,2246,4.4,399
+Dr. Lee,Dermatology,City Hospital,Blue Cross,Male,Cancer,Phoenix,505 Spruce St,44,32,420,637,1.4,450
+Dr. Williams,Cardiology,Health Clinic,Cigna,Female,COPD,San Jose,123 Main St,49,11,317,4894,3.4,323
+Dr. Jones,Dermatology,City Hospital,United Healthcare,Female,Obesity,San Antonio,123 Main St,29,4,115,6212,1.3,253
+Dr. Brown,Dermatology,City Hospital,Cigna,Male,Migraine,New York,606 Walnut St,65,34,455,9872,4.7,262
+Dr. Patel,Gastroenterology,Regional Medical Center,Blue Cross,Male,Migraine,Houston,101 Oak St,32,15,367,2528,2.2,350
+Dr. Smith,Pediatrics,General Hospital,Aetna,Male,Asthma,San Jose,707 Chestnut St,20,21,136,4038,1.3,281
+Dr. Brown,Ophthalmology,Regional Medical Center,Cigna,Male,COPD,San Antonio,303 Cedar St,58,1,227,1733,3.7,33
+Dr. Garcia,Oncology,Health Clinic,Medicare,Female,Cancer,Dallas,505 Spruce St,34,14,332,4660,1.9,300
+Dr. Martinez,Neurology,Health Clinic,Medicare,Female,Cancer,Phoenix,505 Spruce St,65,34,127,9831,2.7,185
+Dr. Patel,Orthopedics,General Hospital,United Healthcare,Female,Migraine,Houston,456 Elm St,34,31,470,5094,1.6,287
+Dr. Martinez,Endocrinology,Health Clinic,Medicare,Male,Diabetes,San Jose,123 Main St,33,1,286,1430,4.0,128
+Dr. Lee,Neurology,Regional Medical Center,United Healthcare,Male,Cancer,Los Angeles,202 Pine St,41,7,114,4170,2.1,427
+Dr. Brown,Oncology,City Hospital,Cigna,Male,Hypertension,Los Angeles,505 Spruce St,52,31,180,5055,4.9,471
+Dr. Brown,Oncology,Regional Medical Center,Cigna,Female,Diabetes,San Antonio,123 Main St,57,36,316,9119,2.6,26
+Dr. Smith,Endocrinology,Regional Medical Center,Aetna,Male,COPD,Chicago,303 Cedar St,51,26,231,770,3.3,478
+Dr. Lee,Orthopedics,General Hospital,United Healthcare,Female,Diabetes,Dallas,707 Chestnut St,45,32,235,8923,3.0,428
+Dr. Lee,Dermatology,City Hospital,United Healthcare,Female,Hypertension,San Diego,707 Chestnut St,57,21,199,285,3.7,335
+Dr. Jones,Orthopedics,City Hospital,United Healthcare,Male,Arthritis,San Diego,606 Walnut St,59,7,111,945,5.0,140
+Dr. Lee,Oncology,General Hospital,Medicaid,Male,Depression,Houston,404 Birch St,44,6,493,5948,4.9,465
+Dr. Lee,Neurology,Specialty Hospital,United Healthcare,Female,Cancer,Chicago,707 Chestnut St,47,1,441,306,3.5,441
+Dr. Brown,Oncology,General Hospital,Blue Cross,Female,Hypertension,San Jose,606 Walnut St,42,24,192,6708,3.0,177
+Dr. Lee,Ophthalmology,Regional Medical Center,Medicare,Male,Hypertension,New York,606 Walnut St,59,15,331,5318,2.0,471
+Dr. Brown,Pediatrics,Health Clinic,Blue Cross,Female,Obesity,Dallas,707 Chestnut St,54,2,220,9372,2.1,117
+Dr. Lee,Cardiology,General Hospital,Cigna,Male,Hypertension,Los Angeles,606 Walnut St,67,29,300,9924,2.3,92
+Dr. Brown,Oncology,Regional Medical Center,Medicare,Female,Asthma,Dallas,606 Walnut St,55,21,170,1143,1.2,400
+Dr. Miller,Endocrinology,General Hospital,Medicare,Male,Heart Disease,Phoenix,707 Chestnut St,45,40,243,6984,3.0,222
+Dr. Patel,Oncology,General Hospital,United Healthcare,Female,Asthma,San Diego,606 Walnut St,43,12,434,5111,1.3,210
+Dr. Lee,Neurology,City Hospital,Medicare,Male,Hypertension,Dallas,505 Spruce St,59,14,192,2795,5.0,427
+Dr. Garcia,Ophthalmology,Regional Medical Center,Blue Cross,Female,Migraine,Philadelphia,505 Spruce St,39,19,487,5346,2.7,142
+Dr. Smith,Gastroenterology,City Hospital,United Healthcare,Female,Hypertension,Houston,123 Main St,40,13,213,1004,1.3,64
+Dr. Garcia,Cardiology,City Hospital,Medicare,Male,Cancer,Dallas,202 Pine St,39,37,311,6119,2.6,278
+Dr. Brown,Oncology,General Hospital,United Healthcare,Female,COPD,San Antonio,404 Birch St,63,20,463,1270,3.0,32
+Dr. Martinez,Gastroenterology,General Hospital,United Healthcare,Female,Obesity,Dallas,789 Maple Ave,63,40,223,4819,2.1,433
+Dr. Jones,Oncology,Health Clinic,United Healthcare,Female,Diabetes,Chicago,303 Cedar St,29,38,320,2406,2.8,425
+Dr. Lee,Neurology,Regional Medical Center,United Healthcare,Female,Obesity,Houston,707 Chestnut St,24,11,222,1914,2.9,31
+Dr. Johnson,Orthopedics,City Hospital,Aetna,Female,Arthritis,San Jose,202 Pine St,32,10,114,6453,2.1,408
+Dr. Brown,Ophthalmology,General Hospital,Aetna,Male,Arthritis,San Antonio,123 Main St,44,25,137,8958,4.5,500
+Dr. Johnson,Endocrinology,Regional Medical Center,Blue Cross,Male,Asthma,Dallas,202 Pine St,24,11,173,7285,2.2,216
+Dr. Miller,Cardiology,Regional Medical Center,United Healthcare,Female,COPD,San Jose,789 Maple Ave,55,40,221,8559,1.2,176
+Dr. Martinez,Endocrinology,City Hospital,Cigna,Male,Arthritis,Houston,123 Main St,28,29,245,3602,1.9,326
+Dr. Williams,Gastroenterology,General Hospital,Cigna,Female,Obesity,Dallas,404 Birch St,45,26,496,5152,1.4,455
+Dr. Smith,Pediatrics,City Hospital,Medicare,Female,Arthritis,Phoenix,404 Birch St,67,11,183,5662,3.8,60
+Dr. Brown,Neurology,Regional Medical Center,Cigna,Female,Depression,Philadelphia,606 Walnut St,26,23,486,1913,5.0,162
+Dr. Johnson,Dermatology,City Hospital,Blue Cross,Female,Migraine,Los Angeles,707 Chestnut St,32,28,461,9376,4.3,27
+Dr. Lee,Pediatrics,General Hospital,Medicare,Female,Heart Disease,Philadelphia,303 Cedar St,68,18,129,1009,4.5,209
+Dr. Johnson,Orthopedics,Specialty Hospital,Aetna,Female,Obesity,San Jose,789 Maple Ave,39,9,260,4141,3.8,115
+Dr. Brown,Gastroenterology,Specialty Hospital,Aetna,Male,Obesity,Phoenix,789 Maple Ave,33,36,449,991,3.4,34
+Dr. Patel,Endocrinology,Specialty Hospital,Aetna,Female,COPD,Phoenix,123 Main St,26,10,399,2748,4.7,126
+Dr. Patel,Ophthalmology,General Hospital,Cigna,Male,Arthritis,San Antonio,404 Birch St,25,2,139,6412,2.8,190
+Dr. Patel,Dermatology,Regional Medical Center,Medicare,Male,Obesity,Dallas,456 Elm St,60,39,193,4405,3.9,448
+Dr. Lee,Oncology,Health Clinic,Blue Cross,Male,Obesity,San Antonio,707 Chestnut St,59,12,183,3919,4.8,351
+Dr. Patel,Dermatology,Health Clinic,Cigna,Male,Depression,New York,505 Spruce St,34,21,136,3972,1.2,373
+Dr. Smith,Gastroenterology,Health Clinic,Medicare,Male,Diabetes,Phoenix,789 Maple Ave,61,35,336,6822,3.6,237
+Dr. Lee,Endocrinology,City Hospital,Cigna,Female,Diabetes,Chicago,789 Maple Ave,33,37,387,1604,1.6,441
+Dr. Jones,Psychiatry,Regional Medical Center,Medicare,Male,Obesity,Chicago,707 Chestnut St,41,5,214,2909,4.2,138
+Dr. Jones,Gastroenterology,Health Clinic,United Healthcare,Male,Migraine,New York,123 Main St,62,35,156,6815,2.9,386
+Dr. Johnson,Dermatology,Specialty Hospital,Aetna,Male,Arthritis,Dallas,404 Birch St,35,35,287,3614,2.0,366
+Dr. Lee,Ophthalmology,Regional Medical Center,Medicare,Male,Arthritis,New York,123 Main St,31,10,62,6241,2.4,447
+Dr. Martinez,Ophthalmology,Specialty Hospital,Medicare,Female,Diabetes,San Jose,707 Chestnut St,23,1,409,5342,4.2,47
+Dr. Martinez,Psychiatry,General Hospital,Cigna,Female,Cancer,Philadelphia,707 Chestnut St,26,39,491,250,4.0,488
+Dr. Williams,Neurology,General Hospital,Medicare,Female,Arthritis,Philadelphia,789 Maple Ave,53,15,253,4683,1.5,165
+Dr. Lee,Oncology,Regional Medical Center,United Healthcare,Male,Obesity,San Diego,202 Pine St,41,37,102,1318,4.0,269
+Dr. Smith,Endocrinology,City Hospital,Blue Cross,Female,Diabetes,San Jose,404 Birch St,29,4,368,112,3.4,222
+Dr. Miller,Oncology,City Hospital,Cigna,Female,COPD,Chicago,404 Birch St,51,30,56,4907,4.0,319
+Dr. Brown,Gastroenterology,Health Clinic,Medicaid,Male,Arthritis,Philadelphia,404 Birch St,57,16,234,1982,1.9,481
+Dr. Johnson,Pediatrics,Regional Medical Center,Cigna,Female,Diabetes,Houston,789 Maple Ave,64,28,441,7466,3.3,390
+Dr. Smith,Neurology,City Hospital,Aetna,Female,Diabetes,New York,505 Spruce St,61,17,356,204,2.9,58
+Dr. Smith,Orthopedics,Health Clinic,Medicare,Female,COPD,San Jose,456 Elm St,53,2,82,2703,1.3,416
+Dr. Lee,Psychiatry,General Hospital,United Healthcare,Male,Obesity,Phoenix,456 Elm St,35,29,180,2364,1.4,298
+Dr. Martinez,Psychiatry,Regional Medical Center,Aetna,Male,COPD,San Antonio,123 Main St,47,28,455,7155,2.4,421
+Dr. Williams,Oncology,City Hospital,United Healthcare,Female,Hypertension,San Jose,404 Birch St,46,13,348,290,3.4,162
+Dr. Smith,Cardiology,Health Clinic,Aetna,Female,Obesity,San Diego,456 Elm St,52,30,317,2844,1.4,223
+Dr. Garcia,Neurology,Health Clinic,Cigna,Female,Arthritis,Philadelphia,404 Birch St,35,16,98,1248,4.5,315
+Dr. Garcia,Orthopedics,Health Clinic,Blue Cross,Female,Cancer,Los Angeles,303 Cedar St,50,25,192,6370,4.4,36
+Dr. Johnson,Dermatology,Regional Medical Center,Blue Cross,Male,Diabetes,Los Angeles,303 Cedar St,24,35,67,3134,4.3,15
+Dr. Brown,Psychiatry,Health Clinic,Blue Cross,Male,Arthritis,San Jose,505 Spruce St,70,17,432,6653,1.6,0
+Dr. Jones,Pediatrics,Regional Medical Center,Medicare,Male,Diabetes,Philadelphia,123 Main St,65,13,417,3659,3.4,431
+Dr. Smith,Oncology,General Hospital,Medicare,Male,Migraine,Philadelphia,123 Main St,50,15,130,3737,2.6,490
+Dr. Garcia,Cardiology,City Hospital,Aetna,Female,COPD,San Jose,404 Birch St,23,3,96,9809,4.8,95
+Dr. Patel,Cardiology,General Hospital,Medicare,Male,Asthma,Philadelphia,456 Elm St,62,14,310,9555,3.5,126
+Dr. Miller,Pediatrics,Health Clinic,Blue Cross,Female,Heart Disease,Houston,606 Walnut St,20,3,376,8907,3.2,286
+Dr. Garcia,Pediatrics,City Hospital,Blue Cross,Male,Depression,Philadelphia,404 Birch St,51,22,286,7946,4.0,216
+Dr. Patel,Endocrinology,General Hospital,Cigna,Female,Asthma,Houston,606 Walnut St,57,26,202,3268,2.1,319
+Dr. Jones,Psychiatry,General Hospital,Medicare,Male,Obesity,Los Angeles,505 Spruce St,28,16,258,3286,2.1,380
+Dr. Brown,Psychiatry,City Hospital,Blue Cross,Male,Asthma,San Diego,789 Maple Ave,41,35,187,1164,2.0,181
+Dr. Smith,Pediatrics,City Hospital,Cigna,Male,Migraine,San Diego,202 Pine St,62,37,405,147,3.5,325
+Dr. Brown,Dermatology,General Hospital,United Healthcare,Female,Arthritis,Dallas,789 Maple Ave,67,14,400,9252,3.8,347
+Dr. Jones,Gastroenterology,City Hospital,United Healthcare,Female,Asthma,Chicago,789 Maple Ave,23,17,235,162,3.0,455
+Dr. Williams,Orthopedics,Specialty Hospital,Medicare,Female,COPD,Phoenix,789 Maple Ave,25,6,120,5721,3.0,145
+Dr. Johnson,Neurology,City Hospital,Aetna,Female,COPD,San Antonio,789 Maple Ave,31,23,142,1914,1.3,228
+Dr. Johnson,Dermatology,Specialty Hospital,Cigna,Female,COPD,San Diego,404 Birch St,44,39,76,9098,1.6,389
+Dr. Patel,Gastroenterology,Specialty Hospital,Aetna,Female,Asthma,Los Angeles,505 Spruce St,46,24,189,6778,2.4,20
+Dr. Miller,Cardiology,Regional Medical Center,Blue Cross,Female,Diabetes,San Diego,303 Cedar St,40,27,237,7156,2.0,52
+Dr. Lee,Gastroenterology,General Hospital,Aetna,Male,Heart Disease,Phoenix,404 Birch St,38,15,188,3152,3.2,310
+Dr. Martinez,Ophthalmology,Regional Medical Center,United Healthcare,Male,Depression,San Antonio,789 Maple Ave,29,11,276,9753,4.9,446
+Dr. Smith,Gastroenterology,City Hospital,Blue Cross,Female,Diabetes,Dallas,404 Birch St,44,23,386,8655,3.6,176
+Dr. Patel,Gastroenterology,Regional Medical Center,Aetna,Female,Migraine,San Diego,789 Maple Ave,50,40,184,1954,2.3,422
+Dr. Patel,Endocrinology,Specialty Hospital,Cigna,Male,Hypertension,Phoenix,123 Main St,31,13,112,4914,4.4,143
+Dr. Smith,Endocrinology,City Hospital,Medicare,Male,Migraine,New York,707 Chestnut St,58,16,164,3420,3.5,110
+Dr. Patel,Endocrinology,Specialty Hospital,Aetna,Male,Migraine,New York,707 Chestnut St,55,40,413,7717,3.3,479
+Dr. Martinez,Orthopedics,General Hospital,Blue Cross,Male,Cancer,San Diego,456 Elm St,23,36,499,630,4.1,414
+Dr. Martinez,Dermatology,Specialty Hospital,Medicare,Female,Hypertension,San Antonio,202 Pine St,21,21,433,7383,2.1,25
+Dr. Williams,Dermatology,Health Clinic,Medicaid,Male,Obesity,Philadelphia,202 Pine St,34,2,203,5649,4.1,409
+Dr. Johnson,Dermatology,Regional Medical Center,Medicare,Female,COPD,San Antonio,456 Elm St,44,11,454,2641,3.5,185
+Dr. Lee,Pediatrics,City Hospital,United Healthcare,Female,Obesity,San Jose,606 Walnut St,63,7,483,7325,3.6,486
+Dr. Jones,Psychiatry,Health Clinic,Aetna,Male,Hypertension,Los Angeles,707 Chestnut St,25,20,219,6148,4.9,7
+Dr. Miller,Oncology,Health Clinic,Cigna,Male,Obesity,Houston,505 Spruce St,36,28,421,4088,2.9,478
+Dr. Jones,Psychiatry,Regional Medical Center,United Healthcare,Female,Cancer,New York,303 Cedar St,50,9,394,2860,4.4,95
+Dr. Miller,Pediatrics,City Hospital,United Healthcare,Female,Heart Disease,San Antonio,606 Walnut St,24,12,106,4109,4.2,57
+Dr. Jones,Dermatology,Regional Medical Center,Aetna,Male,Heart Disease,San Diego,707 Chestnut St,22,29,262,8776,2.0,475
+Dr. Brown,Gastroenterology,Specialty Hospital,Blue Cross,Male,Hypertension,Chicago,202 Pine St,60,9,312,6621,2.3,496
+Dr. Williams,Cardiology,General Hospital,Medicaid,Female,Depression,Phoenix,101 Oak St,30,37,479,1040,4.3,98
+Dr. Miller,Cardiology,Regional Medical Center,Medicare,Female,Obesity,San Antonio,404 Birch St,33,35,305,7724,3.6,153
+Dr. Garcia,Cardiology,City Hospital,Aetna,Female,Obesity,Houston,404 Birch St,58,7,307,7846,3.0,476
+Dr. Brown,Oncology,General Hospital,Aetna,Female,COPD,Los Angeles,456 Elm St,28,29,154,7072,2.6,494
+Dr. Jones,Gastroenterology,Regional Medical Center,Blue Cross,Female,Heart Disease,San Jose,101 Oak St,39,14,337,6255,1.1,163
+Dr. Brown,Ophthalmology,Health Clinic,Medicare,Male,COPD,Los Angeles,101 Oak St,51,7,420,1732,2.2,189
+Dr. Jones,Endocrinology,Health Clinic,United Healthcare,Male,Cancer,Philadelphia,404 Birch St,56,35,145,4169,3.1,460
+Dr. Lee,Psychiatry,General Hospital,Aetna,Female,Asthma,Phoenix,303 Cedar St,35,16,50,9148,4.2,483
+Dr. Martinez,Ophthalmology,General Hospital,United Healthcare,Male,Hypertension,Houston,202 Pine St,56,37,492,9022,3.0,439
+Dr. Johnson,Oncology,Regional Medical Center,Cigna,Female,Asthma,Los Angeles,101 Oak St,33,18,493,3699,3.6,117
+Dr. Johnson,Endocrinology,General Hospital,United Healthcare,Female,Asthma,San Diego,707 Chestnut St,39,36,378,4612,3.2,354
+Dr. Miller,Endocrinology,City Hospital,Medicaid,Female,Hypertension,Houston,101 Oak St,26,14,267,2462,2.5,354
+Dr. Martinez,Neurology,Health Clinic,Aetna,Male,Heart Disease,Philadelphia,101 Oak St,63,17,403,7082,2.8,36
+Dr. Jones,Cardiology,General Hospital,Aetna,Female,Arthritis,San Antonio,123 Main St,68,10,239,7537,1.8,325
+Dr. Martinez,Dermatology,Specialty Hospital,Blue Cross,Female,Hypertension,San Diego,456 Elm St,29,39,100,1686,4.4,60
+Dr. Patel,Ophthalmology,Specialty Hospital,Blue Cross,Female,Diabetes,Houston,202 Pine St,39,16,189,8876,3.5,206
+Dr. Jones,Cardiology,Health Clinic,Medicare,Female,Asthma,Dallas,123 Main St,24,10,478,6239,1.5,305
+Dr. Brown,Psychiatry,Regional Medical Center,Blue Cross,Male,Migraine,Los Angeles,123 Main St,54,31,160,8947,2.4,321
+Dr. Patel,Endocrinology,Regional Medical Center,Medicare,Male,COPD,San Antonio,303 Cedar St,69,22,264,7729,4.0,185
+Dr. Brown,Gastroenterology,Health Clinic,Aetna,Male,Asthma,Phoenix,456 Elm St,51,36,125,7372,1.1,372
+Dr. Johnson,Gastroenterology,Specialty Hospital,United Healthcare,Female,Heart Disease,San Antonio,505 Spruce St,57,20,338,8095,3.3,370
+Dr. Lee,Cardiology,General Hospital,Blue Cross,Female,Depression,San Diego,606 Walnut St,26,9,139,3074,3.6,159
+Dr. Johnson,Ophthalmology,Regional Medical Center,Aetna,Male,Asthma,Chicago,789 Maple Ave,28,32,464,4427,1.6,483
+Dr. Patel,Pediatrics,General Hospital,United Healthcare,Male,Depression,Phoenix,456 Elm St,49,25,453,3635,1.8,0
+Dr. Smith,Ophthalmology,Specialty Hospital,Aetna,Male,Depression,Houston,123 Main St,61,18,367,990,4.6,128
+Dr. Williams,Dermatology,Regional Medical Center,Medicaid,Male,Migraine,San Antonio,456 Elm St,32,11,193,5342,4.4,296
+Dr. Patel,Endocrinology,Health Clinic,United Healthcare,Female,Heart Disease,Chicago,202 Pine St,59,36,404,5775,3.0,451
+Dr. Brown,Psychiatry,Regional Medical Center,Medicare,Male,Hypertension,Houston,202 Pine St,49,10,231,754,2.8,109
+Dr. Patel,Gastroenterology,Health Clinic,Cigna,Female,Diabetes,New York,101 Oak St,66,34,465,973,3.6,166
+Dr. Lee,Orthopedics,Health Clinic,Cigna,Female,Hypertension,Philadelphia,202 Pine St,30,39,121,8499,3.0,414
+Dr. Smith,Endocrinology,General Hospital,Blue Cross,Female,Migraine,Los Angeles,101 Oak St,47,39,248,9772,1.6,265
+Dr. Smith,Psychiatry,Health Clinic,Aetna,Female,Migraine,San Jose,789 Maple Ave,66,16,470,1756,1.8,400
+Dr. Lee,Oncology,Regional Medical Center,Blue Cross,Male,COPD,Los Angeles,404 Birch St,33,22,451,238,1.3,145
+Dr. Garcia,Psychiatry,Specialty Hospital,Medicare,Female,Asthma,New York,101 Oak St,31,32,186,2644,1.7,275
+Dr. Garcia,Pediatrics,City Hospital,Aetna,Male,Migraine,Phoenix,456 Elm St,34,32,363,1780,2.8,221
+Dr. Brown,Psychiatry,City Hospital,Aetna,Male,Migraine,Dallas,456 Elm St,56,19,375,7942,3.8,253
+Dr. Patel,Pediatrics,Regional Medical Center,Aetna,Male,COPD,San Jose,606 Walnut St,43,35,392,6457,4.6,404
+Dr. Garcia,Orthopedics,General Hospital,Blue Cross,Male,Hypertension,San Jose,789 Maple Ave,34,11,307,873,1.9,169
+Dr. Williams,Cardiology,Specialty Hospital,Blue Cross,Male,COPD,San Antonio,123 Main St,49,8,265,6288,1.0,375
+Dr. Brown,Neurology,Health Clinic,United Healthcare,Female,Cancer,New York,123 Main St,54,5,144,2442,1.3,179
+Dr. Smith,Pediatrics,Health Clinic,United Healthcare,Female,Depression,San Diego,404 Birch St,32,23,144,4939,4.2,223
+Dr. Miller,Ophthalmology,City Hospital,Medicare,Male,Cancer,Houston,404 Birch St,53,15,483,5472,4.2,322
+Dr. Brown,Oncology,Regional Medical Center,United Healthcare,Female,Depression,Chicago,123 Main St,39,5,470,5771,4.1,77
+Dr. Smith,Oncology,Health Clinic,Aetna,Male,Depression,Chicago,789 Maple Ave,44,26,244,8153,2.4,290
+Dr. Johnson,Neurology,Health Clinic,Aetna,Male,Depression,Chicago,202 Pine St,54,8,53,5217,2.3,356
+Dr. Garcia,Cardiology,Regional Medical Center,Cigna,Female,Diabetes,Houston,404 Birch St,47,13,328,3989,4.8,80
+Dr. Garcia,Orthopedics,City Hospital,Aetna,Male,Cancer,Philadelphia,101 Oak St,69,9,222,4194,4.8,98
+Dr. Lee,Psychiatry,Regional Medical Center,Medicaid,Male,Heart Disease,Philadelphia,202 Pine St,48,5,379,9758,3.9,427
+Dr. Jones,Cardiology,Health Clinic,Medicare,Female,COPD,San Diego,606 Walnut St,21,13,224,7339,3.5,144
+Dr. Jones,Endocrinology,Specialty Hospital,Cigna,Female,Cancer,Philadelphia,789 Maple Ave,50,15,302,2452,3.8,286
+Dr. Patel,Cardiology,Regional Medical Center,Aetna,Male,Hypertension,Houston,123 Main St,57,4,239,1357,3.5,9
+Dr. Garcia,Gastroenterology,Specialty Hospital,Medicare,Male,Asthma,Dallas,789 Maple Ave,49,3,161,9764,3.9,404
+Dr. Johnson,Orthopedics,Health Clinic,United Healthcare,Female,COPD,Phoenix,101 Oak St,64,33,399,9333,3.6,457
+Dr. Garcia,Orthopedics,City Hospital,Aetna,Male,Cancer,Dallas,789 Maple Ave,62,35,393,7291,3.3,489
+Dr. Jones,Ophthalmology,Specialty Hospital,Aetna,Female,COPD,Los Angeles,123 Main St,46,7,432,8411,2.2,165
+Dr. Johnson,Orthopedics,General Hospital,United Healthcare,Female,Hypertension,Houston,505 Spruce St,64,15,50,2997,1.4,70
+Dr. Garcia,Dermatology,General Hospital,Aetna,Male,COPD,Dallas,606 Walnut St,38,13,143,3562,4.9,169
+Dr. Smith,Orthopedics,Health Clinic,United Healthcare,Female,Migraine,San Jose,505 Spruce St,68,29,165,7615,4.7,25
+Dr. Brown,Endocrinology,Specialty Hospital,Blue Cross,Female,COPD,San Diego,707 Chestnut St,52,26,259,2075,2.0,165
+Dr. Brown,Cardiology,City Hospital,Medicare,Male,Cancer,Dallas,505 Spruce St,21,39,389,1832,1.8,307
+Dr. Williams,Cardiology,City Hospital,Medicare,Male,Migraine,Houston,707 Chestnut St,25,30,73,7089,4.0,395
+Dr. Johnson,Gastroenterology,Regional Medical Center,Medicaid,Male,COPD,Los Angeles,707 Chestnut St,44,9,476,1373,1.6,102
+Dr. Williams,Dermatology,Specialty Hospital,Cigna,Male,COPD,San Diego,202 Pine St,36,26,478,9388,2.4,482
+Dr. Martinez,Ophthalmology,Regional Medical Center,United Healthcare,Male,Diabetes,Philadelphia,505 Spruce St,20,2,500,6471,1.4,306
+Dr. Lee,Psychiatry,Specialty Hospital,Blue Cross,Female,Heart Disease,New York,123 Main St,62,16,270,6797,1.9,49
+Dr. Smith,Psychiatry,General Hospital,Aetna,Male,Heart Disease,Houston,505 Spruce St,29,19,383,330,3.5,401
+Dr. Garcia,Oncology,Health Clinic,Aetna,Male,Depression,Los Angeles,606 Walnut St,34,15,233,8515,1.3,86
+Dr. Garcia,Pediatrics,City Hospital,Blue Cross,Female,Cancer,Chicago,202 Pine St,54,11,106,223,3.4,372
+Dr. Smith,Dermatology,Regional Medical Center,Blue Cross,Male,Arthritis,Los Angeles,707 Chestnut St,26,27,278,3487,2.5,49
+Dr. Williams,Dermatology,Health Clinic,Medicaid,Male,Asthma,Phoenix,202 Pine St,62,34,226,6670,2.4,382
+Dr. Garcia,Pediatrics,City Hospital,United Healthcare,Female,COPD,San Diego,606 Walnut St,22,31,186,3896,3.7,206
+Dr. Lee,Endocrinology,Specialty Hospital,Cigna,Female,Arthritis,Chicago,606 Walnut St,59,14,496,1837,3.9,457
+Dr. Lee,Ophthalmology,General Hospital,Aetna,Male,Hypertension,Phoenix,123 Main St,37,3,214,1265,4.6,91
+Dr. Jones,Psychiatry,Regional Medical Center,Blue Cross,Male,Depression,San Antonio,456 Elm St,41,15,301,1876,1.0,452
+Dr. Brown,Oncology,General Hospital,Blue Cross,Female,Arthritis,San Antonio,707 Chestnut St,63,30,135,1600,4.3,46
+Dr. Patel,Cardiology,Health Clinic,Aetna,Male,Obesity,Los Angeles,404 Birch St,64,14,228,5016,2.9,43
+Dr. Garcia,Ophthalmology,Health Clinic,United Healthcare,Male,Hypertension,Houston,505 Spruce St,52,31,171,242,1.8,107
+Dr. Brown,Endocrinology,Specialty Hospital,Aetna,Female,Migraine,Philadelphia,202 Pine St,62,19,122,6544,1.7,147
+Dr. Brown,Psychiatry,Regional Medical Center,Blue Cross,Male,Arthritis,New York,303 Cedar St,20,23,464,5051,1.9,188
+Dr. Johnson,Endocrinology,Health Clinic,Aetna,Male,Migraine,Philadelphia,456 Elm St,46,16,83,5772,5.0,162
+Dr. Patel,Ophthalmology,City Hospital,Medicaid,Female,Depression,Dallas,303 Cedar St,32,18,447,2616,3.7,380
+Dr. Williams,Psychiatry,Health Clinic,United Healthcare,Male,COPD,Dallas,202 Pine St,34,1,316,6938,4.9,461
+Dr. Johnson,Psychiatry,City Hospital,Medicare,Male,Asthma,New York,505 Spruce St,37,21,50,8531,3.3,389
+Dr. Patel,Neurology,Regional Medical Center,Blue Cross,Female,Diabetes,Philadelphia,606 Walnut St,62,25,316,7056,3.4,128
+Dr. Smith,Cardiology,Regional Medical Center,United Healthcare,Female,Migraine,San Antonio,707 Chestnut St,68,2,334,4081,4.5,152
+Dr. Brown,Neurology,City Hospital,Aetna,Female,Migraine,Dallas,789 Maple Ave,46,33,233,6513,3.8,67
+Dr. Patel,Neurology,City Hospital,Blue Cross,Female,Depression,Los Angeles,456 Elm St,53,28,444,8816,4.2,471
+Dr. Patel,Pediatrics,Health Clinic,Blue Cross,Female,Depression,San Jose,456 Elm St,21,15,455,475,4.0,345
+Dr. Lee,Pediatrics,City Hospital,United Healthcare,Female,Asthma,Dallas,505 Spruce St,30,26,153,7617,4.9,335
+Dr. Jones,Neurology,Health Clinic,Medicare,Female,Asthma,San Jose,707 Chestnut St,46,23,94,5697,3.3,333
+Dr. Lee,Orthopedics,City Hospital,Blue Cross,Female,Obesity,Los Angeles,303 Cedar St,67,33,267,1536,1.1,500
+Dr. Lee,Endocrinology,Health Clinic,Medicare,Male,Obesity,Houston,202 Pine St,22,1,238,9260,4.4,55
+Dr. Miller,Psychiatry,General Hospital,Medicare,Female,Migraine,Dallas,202 Pine St,44,33,221,616,4.5,77
+Dr. Martinez,Psychiatry,Health Clinic,Blue Cross,Male,Arthritis,New York,123 Main St,35,14,486,8711,2.6,399
+Dr. Lee,Dermatology,Regional Medical Center,Blue Cross,Female,Arthritis,New York,123 Main St,37,39,143,1661,1.9,422
+Dr. Smith,Psychiatry,General Hospital,Blue Cross,Female,Asthma,San Jose,606 Walnut St,32,9,324,4300,3.2,141
+Dr. Williams,Oncology,Specialty Hospital,United Healthcare,Female,Arthritis,Phoenix,707 Chestnut St,42,37,160,9037,5.0,223
+Dr. Smith,Psychiatry,Health Clinic,Medicare,Male,Obesity,New York,606 Walnut St,34,17,179,5412,3.3,322
+Dr. Brown,Oncology,Health Clinic,Cigna,Female,Asthma,Houston,404 Birch St,32,31,122,9761,3.0,496
+Dr. Martinez,Gastroenterology,Regional Medical Center,Blue Cross,Male,Obesity,New York,101 Oak St,43,3,421,8139,3.3,473
+Dr. Lee,Cardiology,General Hospital,Medicare,Male,COPD,San Diego,101 Oak St,67,1,395,7900,3.2,290
+Dr. Martinez,Psychiatry,General Hospital,Blue Cross,Female,Asthma,New York,606 Walnut St,27,10,219,3336,2.5,232
+Dr. Lee,Psychiatry,Regional Medical Center,Blue Cross,Male,Migraine,Philadelphia,101 Oak St,26,29,99,8943,1.3,162
+Dr. Miller,Neurology,City Hospital,Medicare,Female,Heart Disease,Dallas,505 Spruce St,65,34,469,4810,2.5,262
+Dr. Martinez,Dermatology,Specialty Hospital,United Healthcare,Male,Migraine,San Antonio,505 Spruce St,24,33,151,8002,2.0,390
+Dr. Miller,Psychiatry,Health Clinic,United Healthcare,Male,Migraine,Dallas,101 Oak St,41,5,291,7403,2.8,460
+Dr. Martinez,Psychiatry,Regional Medical Center,Blue Cross,Female,COPD,Houston,101 Oak St,43,13,271,3706,1.7,419
+Dr. Garcia,Endocrinology,Specialty Hospital,Cigna,Female,Hypertension,San Diego,505 Spruce St,38,31,242,8251,3.8,315
+Dr. Miller,Oncology,Health Clinic,Aetna,Male,Depression,Los Angeles,202 Pine St,70,11,229,8570,1.8,138
+Dr. Garcia,Neurology,Health Clinic,United Healthcare,Female,Arthritis,Phoenix,606 Walnut St,26,14,207,3185,3.6,370
+Dr. Martinez,Orthopedics,General Hospital,Cigna,Male,Arthritis,San Antonio,707 Chestnut St,70,31,299,9000,2.9,286
+Dr. Williams,Neurology,Regional Medical Center,Medicare,Female,Diabetes,Houston,606 Walnut St,58,38,451,8444,2.9,345
+Dr. Jones,Oncology,Specialty Hospital,Medicare,Male,Migraine,Philadelphia,606 Walnut St,37,3,155,4068,4.4,168
+Dr. Garcia,Psychiatry,Regional Medical Center,Blue Cross,Female,Heart Disease,San Jose,202 Pine St,46,21,285,3326,3.0,142
+Dr. Williams,Pediatrics,General Hospital,Cigna,Female,Cancer,New York,606 Walnut St,31,15,154,8585,3.8,316
+Dr. Patel,Gastroenterology,City Hospital,Aetna,Male,Asthma,Los Angeles,202 Pine St,31,10,494,4916,1.0,446
+Dr. Williams,Neurology,City Hospital,Cigna,Female,COPD,Philadelphia,404 Birch St,33,37,310,764,1.8,397
+Dr. Jones,Ophthalmology,Specialty Hospital,Cigna,Male,Diabetes,New York,789 Maple Ave,69,12,63,6604,1.0,57
+Dr. Miller,Dermatology,General Hospital,United Healthcare,Female,Cancer,Los Angeles,456 Elm St,24,1,353,6278,3.2,421
+Dr. Patel,Neurology,City Hospital,Cigna,Male,Heart Disease,Phoenix,606 Walnut St,70,11,376,3213,1.2,263
+Dr. Williams,Dermatology,Health Clinic,Cigna,Female,Cancer,San Antonio,101 Oak St,60,19,77,6253,1.6,145
+Dr. Lee,Ophthalmology,City Hospital,Cigna,Male,Migraine,Los Angeles,707 Chestnut St,30,36,249,7936,1.0,207
+Dr. Johnson,Ophthalmology,Regional Medical Center,Medicaid,Male,Diabetes,Los Angeles,202 Pine St,39,39,481,3691,2.9,263
+Dr. Martinez,Neurology,Health Clinic,Blue Cross,Male,Migraine,San Antonio,505 Spruce St,63,17,407,1681,4.9,351
+Dr. Jones,Ophthalmology,City Hospital,Aetna,Female,Asthma,Philadelphia,606 Walnut St,23,34,304,4045,4.0,181
+Dr. Smith,Oncology,Health Clinic,Medicare,Female,Obesity,Los Angeles,101 Oak St,70,11,383,4912,1.7,234
+Dr. Johnson,Neurology,Regional Medical Center,Aetna,Male,Arthritis,San Antonio,505 Spruce St,54,33,145,6716,4.5,111
+Dr. Martinez,Endocrinology,Health Clinic,Blue Cross,Male,Depression,Houston,505 Spruce St,29,22,201,5960,1.7,284
+Dr. Brown,Endocrinology,Specialty Hospital,Cigna,Female,Heart Disease,San Antonio,303 Cedar St,67,37,108,1599,2.8,248
+Dr. Lee,Gastroenterology,Health Clinic,Aetna,Female,Diabetes,Chicago,404 Birch St,28,16,102,5216,2.0,50
+Dr. Patel,Oncology,Specialty Hospital,United Healthcare,Male,Obesity,Houston,404 Birch St,37,21,70,413,2.5,378
+Dr. Miller,Gastroenterology,General Hospital,United Healthcare,Male,COPD,Houston,202 Pine St,52,19,128,4714,4.2,452
+Dr. Patel,Ophthalmology,General Hospital,Cigna,Male,Diabetes,Houston,505 Spruce St,21,12,444,9899,1.2,421
+Dr. Garcia,Orthopedics,Health Clinic,Aetna,Male,COPD,Phoenix,303 Cedar St,52,26,149,5283,1.1,142
+Dr. Williams,Dermatology,Health Clinic,Cigna,Male,Asthma,Phoenix,101 Oak St,46,3,77,9974,2.6,250
+Dr. Brown,Cardiology,General Hospital,Blue Cross,Female,Asthma,Chicago,456 Elm St,48,37,427,6569,3.2,144
+Dr. Patel,Orthopedics,City Hospital,Cigna,Female,Heart Disease,Dallas,404 Birch St,43,30,217,2607,2.1,482
+Dr. Patel,Pediatrics,Specialty Hospital,Medicare,Female,Diabetes,Houston,707 Chestnut St,39,33,420,1270,2.6,473
+Dr. Lee,Dermatology,Health Clinic,Cigna,Female,Hypertension,Chicago,606 Walnut St,50,16,296,7296,3.6,412
+Dr. Brown,Pediatrics,Regional Medical Center,Aetna,Female,Cancer,Houston,303 Cedar St,21,17,380,6058,1.6,382
+Dr. Smith,Gastroenterology,City Hospital,Aetna,Male,Diabetes,Chicago,101 Oak St,32,21,143,621,3.5,448
+Dr. Patel,Oncology,Regional Medical Center,Aetna,Male,Asthma,San Diego,404 Birch St,57,27,222,9014,2.6,165
+Dr. Lee,Neurology,General Hospital,Aetna,Male,Asthma,Los Angeles,505 Spruce St,51,30,411,5282,2.8,274
+Dr. Johnson,Orthopedics,Health Clinic,Medicare,Female,Cancer,Houston,505 Spruce St,22,22,321,2622,4.1,259
+Dr. Miller,Oncology,City Hospital,Cigna,Male,Arthritis,Phoenix,404 Birch St,55,33,342,1353,2.5,480
+Dr. Martinez,Dermatology,City Hospital,Blue Cross,Male,Heart Disease,Dallas,456 Elm St,69,4,205,6785,2.3,412
+Dr. Miller,Dermatology,General Hospital,Cigna,Female,Cancer,Houston,456 Elm St,29,30,234,569,5.0,493
+Dr. Brown,Endocrinology,Health Clinic,Medicare,Male,Hypertension,New York,404 Birch St,48,12,459,7535,3.6,163
+Dr. Johnson,Ophthalmology,Regional Medical Center,Cigna,Female,Diabetes,Chicago,606 Walnut St,48,33,121,2504,4.3,151
+Dr. Jones,Dermatology,General Hospital,Blue Cross,Female,Hypertension,Philadelphia,123 Main St,28,30,308,2564,4.8,123
+Dr. Patel,Gastroenterology,General Hospital,Blue Cross,Female,Asthma,San Diego,789 Maple Ave,60,16,231,1874,2.2,357
+Dr. Smith,Psychiatry,Specialty Hospital,Blue Cross,Female,Depression,Philadelphia,404 Birch St,57,21,356,7094,4.2,13
+Dr. Williams,Oncology,City Hospital,Blue Cross,Male,Hypertension,Phoenix,123 Main St,39,39,59,6736,4.9,369
+Dr. Brown,Endocrinology,Health Clinic,United Healthcare,Male,Diabetes,Chicago,303 Cedar St,37,37,485,1231,3.7,103
+Dr. Patel,Dermatology,City Hospital,Blue Cross,Female,Diabetes,San Antonio,505 Spruce St,51,30,306,1187,1.4,379
+Dr. Jones,Pediatrics,Health Clinic,Cigna,Male,Hypertension,San Jose,202 Pine St,64,34,393,8484,1.3,252
+Dr. Patel,Endocrinology,General Hospital,Blue Cross,Male,Diabetes,Phoenix,707 Chestnut St,33,14,88,4574,4.1,63
+Dr. Williams,Ophthalmology,Regional Medical Center,United Healthcare,Male,Hypertension,Los Angeles,101 Oak St,70,10,257,3029,2.8,207
+Dr. Williams,Ophthalmology,General Hospital,Medicaid,Male,Diabetes,San Diego,505 Spruce St,63,24,418,4206,4.8,138
+Dr. Patel,Pediatrics,Specialty Hospital,Medicare,Male,Depression,San Diego,456 Elm St,23,8,419,1279,3.4,175
+Dr. Johnson,Oncology,Regional Medical Center,Blue Cross,Female,Migraine,Philadelphia,101 Oak St,26,17,416,2856,3.3,193
+Dr. Miller,Gastroenterology,City Hospital,Aetna,Female,Heart Disease,San Antonio,123 Main St,22,28,351,5885,4.1,310
+Dr. Williams,Gastroenterology,General Hospital,Medicaid,Male,Heart Disease,San Jose,505 Spruce St,66,6,248,5931,1.2,352
+Dr. Brown,Psychiatry,City Hospital,Cigna,Male,Obesity,San Jose,101 Oak St,66,1,498,1141,2.2,116
+Dr. Miller,Orthopedics,Specialty Hospital,United Healthcare,Female,Cancer,Dallas,101 Oak St,49,27,245,8183,3.8,47
+Dr. Miller,Gastroenterology,Specialty Hospital,United Healthcare,Female,Hypertension,Dallas,606 Walnut St,33,15,345,3891,3.1,467
+Dr. Williams,Dermatology,Health Clinic,Blue Cross,Male,Obesity,New York,505 Spruce St,51,14,136,2330,4.4,470
+Dr. Brown,Endocrinology,City Hospital,Medicare,Male,Obesity,Houston,202 Pine St,38,33,306,6151,3.2,29
+Dr. Patel,Dermatology,Health Clinic,United Healthcare,Female,COPD,San Antonio,606 Walnut St,34,31,104,1059,3.0,161
+Dr. Brown,Pediatrics,Health Clinic,Aetna,Female,Asthma,San Antonio,707 Chestnut St,22,3,134,4896,2.0,183
+Dr. Johnson,Cardiology,City Hospital,United Healthcare,Female,Diabetes,San Antonio,202 Pine St,43,22,85,2642,4.5,456
+Dr. Smith,Dermatology,City Hospital,United Healthcare,Male,Heart Disease,Los Angeles,789 Maple Ave,46,19,225,3012,2.8,228
+Dr. Miller,Neurology,Specialty Hospital,Cigna,Male,Diabetes,Los Angeles,456 Elm St,47,19,183,9000,3.0,218
+Dr. Martinez,Dermatology,Specialty Hospital,Medicare,Male,Cancer,New York,707 Chestnut St,47,6,290,8173,3.6,400
+Dr. Lee,Neurology,Specialty Hospital,Aetna,Female,Diabetes,Dallas,456 Elm St,21,24,324,2550,3.0,226
+Dr. Brown,Oncology,Health Clinic,United Healthcare,Female,Migraine,San Jose,606 Walnut St,69,37,275,6935,4.5,354
+Dr. Johnson,Psychiatry,General Hospital,United Healthcare,Male,COPD,New York,789 Maple Ave,20,14,361,6988,2.3,180
+Dr. Brown,Gastroenterology,City Hospital,United Healthcare,Female,Heart Disease,Phoenix,303 Cedar St,70,39,371,2803,1.4,2
+Dr. Lee,Oncology,Health Clinic,Cigna,Female,Arthritis,Philadelphia,707 Chestnut St,48,20,225,976,4.3,261
+Dr. Garcia,Ophthalmology,Specialty Hospital,Cigna,Female,Arthritis,Chicago,101 Oak St,42,19,413,8831,2.1,28
+Dr. Lee,Ophthalmology,City Hospital,United Healthcare,Female,Cancer,San Diego,789 Maple Ave,34,14,208,5597,4.5,267
+Dr. Garcia,Oncology,General Hospital,Medicare,Male,Diabetes,Dallas,456 Elm St,68,36,343,6547,3.5,237
+Dr. Lee,Neurology,Health Clinic,Aetna,Female,COPD,San Antonio,606 Walnut St,24,14,262,2290,4.3,362
+Dr. Smith,Cardiology,Health Clinic,United Healthcare,Male,Hypertension,Phoenix,707 Chestnut St,37,13,434,3745,2.8,83
+Dr. Smith,Endocrinology,Health Clinic,United Healthcare,Female,Hypertension,Houston,606 Walnut St,66,28,96,1137,3.9,102
+Dr. Johnson,Cardiology,Specialty Hospital,United Healthcare,Male,COPD,Chicago,606 Walnut St,42,32,302,657,4.6,120
+Dr. Jones,Oncology,City Hospital,United Healthcare,Female,Asthma,Phoenix,303 Cedar St,33,19,350,7060,3.9,496
+Dr. Patel,Cardiology,Regional Medical Center,Cigna,Male,Migraine,Chicago,202 Pine St,33,5,225,6126,1.4,399
+Dr. Smith,Endocrinology,Regional Medical Center,Aetna,Male,Migraine,Philadelphia,707 Chestnut St,40,5,286,3760,2.4,281
+Dr. Miller,Psychiatry,City Hospital,Cigna,Female,Hypertension,Philadelphia,456 Elm St,57,8,219,1692,3.0,492
+Dr. Brown,Endocrinology,City Hospital,Cigna,Female,Obesity,San Jose,606 Walnut St,23,23,345,6620,4.7,202
+Dr. Miller,Cardiology,General Hospital,Medicare,Female,Migraine,San Jose,606 Walnut St,31,40,339,3723,3.3,304
+Dr. Jones,Endocrinology,General Hospital,Medicaid,Male,COPD,San Jose,456 Elm St,66,35,270,8783,3.9,286
+Dr. Miller,Ophthalmology,Regional Medical Center,Cigna,Female,Asthma,Philadelphia,707 Chestnut St,25,4,108,1784,4.1,307
+Dr. Smith,Cardiology,General Hospital,Blue Cross,Male,COPD,Houston,606 Walnut St,70,7,433,3027,1.7,61
+Dr. Smith,Neurology,Specialty Hospital,Medicare,Male,Diabetes,Phoenix,456 Elm St,41,18,135,4369,3.0,284
+Dr. Jones,Endocrinology,City Hospital,Cigna,Female,Obesity,Los Angeles,456 Elm St,42,37,484,6345,4.5,442
+Dr. Brown,Endocrinology,General Hospital,United Healthcare,Female,Cancer,San Diego,404 Birch St,33,24,77,3484,2.8,312
+Dr. Williams,Endocrinology,Specialty Hospital,Blue Cross,Male,Heart Disease,San Jose,707 Chestnut St,33,20,62,8490,2.3,313
+Dr. Miller,Pediatrics,Regional Medical Center,Aetna,Female,Depression,Dallas,101 Oak St,29,13,238,6610,3.0,222
+Dr. Brown,Psychiatry,General Hospital,Blue Cross,Male,Arthritis,Chicago,404 Birch St,30,24,426,5172,2.4,188
+Dr. Miller,Oncology,Specialty Hospital,United Healthcare,Male,COPD,San Antonio,101 Oak St,23,2,500,4548,1.8,347
+Dr. Patel,Neurology,General Hospital,Blue Cross,Male,Migraine,Houston,606 Walnut St,47,31,160,5084,1.7,127
+Dr. Smith,Psychiatry,General Hospital,Medicare,Female,Migraine,San Jose,707 Chestnut St,30,17,279,7461,2.3,371
+Dr. Williams,Gastroenterology,General Hospital,Medicare,Male,Obesity,San Diego,707 Chestnut St,62,23,435,1454,3.5,49
+Dr. Miller,Oncology,Regional Medical Center,United Healthcare,Male,Diabetes,Philadelphia,606 Walnut St,58,28,352,9636,3.4,251
+Dr. Jones,Psychiatry,General Hospital,Medicaid,Female,Depression,San Antonio,404 Birch St,63,13,460,3173,2.8,394
+Dr. Patel,Cardiology,General Hospital,Aetna,Male,Diabetes,San Antonio,606 Walnut St,51,10,257,2787,4.1,97
+Dr. Garcia,Oncology,City Hospital,Blue Cross,Female,Obesity,San Antonio,404 Birch St,27,31,82,615,2.6,388
+Dr. Johnson,Gastroenterology,General Hospital,Blue Cross,Male,Migraine,Phoenix,456 Elm St,27,40,171,2958,1.4,295
+Dr. Smith,Psychiatry,Specialty Hospital,Blue Cross,Female,Diabetes,Los Angeles,101 Oak St,66,27,359,5154,4.7,26
+Dr. Garcia,Ophthalmology,Health Clinic,Cigna,Female,Heart Disease,Phoenix,404 Birch St,65,34,291,2546,3.4,241
+Dr. Miller,Pediatrics,General Hospital,Cigna,Female,Depression,Dallas,303 Cedar St,59,39,138,7428,4.4,74
+Dr. Johnson,Endocrinology,General Hospital,Blue Cross,Female,Arthritis,Los Angeles,202 Pine St,26,33,72,4571,1.9,497
+Dr. Patel,Dermatology,General Hospital,United Healthcare,Female,Hypertension,New York,456 Elm St,41,18,98,9715,4.3,213
+Dr. Martinez,Gastroenterology,General Hospital,Aetna,Male,Heart Disease,Chicago,202 Pine St,36,33,368,9324,3.9,485
+Dr. Johnson,Ophthalmology,Health Clinic,Medicare,Female,Heart Disease,Houston,123 Main St,69,14,121,691,3.6,79
+Dr. Garcia,Pediatrics,General Hospital,Blue Cross,Male,Asthma,Houston,606 Walnut St,64,18,65,6870,4.5,111
+Dr. Jones,Psychiatry,General Hospital,United Healthcare,Female,Hypertension,Los Angeles,789 Maple Ave,20,10,295,3167,2.6,99
+Dr. Patel,Neurology,Health Clinic,Medicare,Male,Hypertension,Los Angeles,101 Oak St,27,25,333,8380,4.5,382
+Dr. Martinez,Dermatology,Regional Medical Center,Medicare,Female,Heart Disease,Houston,202 Pine St,51,32,330,4235,1.2,0
+Dr. Jones,Cardiology,Health Clinic,Aetna,Female,Asthma,San Jose,456 Elm St,47,40,105,4709,4.0,377
+Dr. Lee,Dermatology,Regional Medical Center,United Healthcare,Female,Depression,New York,606 Walnut St,61,34,473,7199,5.0,381
+Dr. Patel,Ophthalmology,Regional Medical Center,United Healthcare,Male,Arthritis,New York,404 Birch St,30,10,72,4730,4.7,342
+Dr. Williams,Oncology,Health Clinic,United Healthcare,Male,Arthritis,New York,505 Spruce St,23,25,458,8883,3.4,137
+Dr. Patel,Pediatrics,General Hospital,Aetna,Female,Heart Disease,Chicago,456 Elm St,31,3,431,6370,4.2,231
+Dr. Miller,Cardiology,Specialty Hospital,Blue Cross,Male,Asthma,Dallas,202 Pine St,53,25,249,9112,1.3,21
+Dr. Martinez,Oncology,Specialty Hospital,Aetna,Female,Diabetes,Dallas,606 Walnut St,33,5,87,9442,4.3,188
+Dr. Williams,Oncology,Health Clinic,Cigna,Female,Hypertension,San Jose,202 Pine St,42,5,121,7802,2.3,121
+Dr. Johnson,Neurology,Specialty Hospital,Medicare,Female,Obesity,Philadelphia,101 Oak St,43,38,452,2685,3.6,279
+Dr. Brown,Oncology,Health Clinic,Medicare,Male,Obesity,San Jose,789 Maple Ave,26,32,343,6209,3.3,299
+Dr. Brown,Dermatology,General Hospital,Medicare,Female,Heart Disease,Houston,789 Maple Ave,70,38,199,4446,3.4,316
+Dr. Patel,Pediatrics,Specialty Hospital,Aetna,Female,Hypertension,Dallas,789 Maple Ave,53,13,497,6452,3.5,55
+Dr. Williams,Orthopedics,Regional Medical Center,Aetna,Male,Hypertension,Dallas,789 Maple Ave,52,16,280,1626,3.8,196
+Dr. Miller,Ophthalmology,City Hospital,Cigna,Female,Arthritis,San Jose,404 Birch St,61,9,336,6997,4.9,200
+Dr. Martinez,Psychiatry,Health Clinic,United Healthcare,Male,Cancer,Los Angeles,707 Chestnut St,64,36,180,4172,4.2,346
+Dr. Patel,Cardiology,Specialty Hospital,Blue Cross,Male,Arthritis,San Jose,456 Elm St,64,15,76,7341,1.7,15
+Dr. Johnson,Dermatology,General Hospital,Blue Cross,Female,Depression,San Antonio,707 Chestnut St,62,11,384,7543,4.8,17
+Dr. Johnson,Cardiology,City Hospital,Medicare,Female,Asthma,Phoenix,707 Chestnut St,38,22,438,3713,3.6,320
+Dr. Garcia,Gastroenterology,City Hospital,Aetna,Male,Cancer,San Jose,404 Birch St,33,40,71,9708,2.3,347
+Dr. Jones,Psychiatry,Health Clinic,Medicare,Female,Hypertension,Philadelphia,505 Spruce St,59,8,302,7937,2.7,208
+Dr. Lee,Pediatrics,General Hospital,Blue Cross,Male,Heart Disease,San Diego,404 Birch St,34,30,287,9125,4.9,233
+Dr. Jones,Cardiology,General Hospital,Cigna,Female,Obesity,Phoenix,202 Pine St,65,28,491,6961,1.1,56
+Dr. Jones,Neurology,Specialty Hospital,United Healthcare,Female,COPD,Phoenix,303 Cedar St,54,12,392,8548,4.5,198
+Dr. Jones,Pediatrics,Regional Medical Center,Blue Cross,Female,Hypertension,Chicago,707 Chestnut St,49,23,446,8497,4.1,269
+Dr. Lee,Psychiatry,Specialty Hospital,Cigna,Female,COPD,Houston,123 Main St,27,23,413,9344,1.8,248
+Dr. Martinez,Endocrinology,Specialty Hospital,Cigna,Male,Heart Disease,San Diego,404 Birch St,29,2,296,5101,4.4,493
+Dr. Williams,Orthopedics,City Hospital,Blue Cross,Male,Obesity,New York,606 Walnut St,26,19,387,1852,1.3,186
+Dr. Martinez,Ophthalmology,Health Clinic,Blue Cross,Female,Cancer,Los Angeles,202 Pine St,50,38,129,6787,1.6,492
+Dr. Johnson,Endocrinology,Regional Medical Center,Blue Cross,Female,Arthritis,Philadelphia,707 Chestnut St,57,23,382,1470,3.0,489
+Dr. Smith,Cardiology,City Hospital,Cigna,Male,COPD,Philadelphia,456 Elm St,24,4,162,6382,3.0,426
+Dr. Brown,Cardiology,Regional Medical Center,Blue Cross,Male,Diabetes,San Diego,707 Chestnut St,65,11,130,6987,1.4,182
+Dr. Patel,Endocrinology,General Hospital,Medicare,Male,Hypertension,Los Angeles,789 Maple Ave,65,16,388,2733,1.1,180
+Dr. Smith,Gastroenterology,City Hospital,United Healthcare,Male,Heart Disease,Chicago,303 Cedar St,62,12,338,8693,1.2,26
+Dr. Lee,Ophthalmology,Health Clinic,Medicaid,Female,Arthritis,San Diego,101 Oak St,29,27,132,3601,2.0,86
+Dr. Martinez,Neurology,Regional Medical Center,Cigna,Female,Hypertension,San Antonio,404 Birch St,37,4,66,9488,2.7,162
+Dr. Jones,Dermatology,Specialty Hospital,United Healthcare,Female,Cancer,New York,123 Main St,43,7,251,8447,1.2,465
+Dr. Lee,Endocrinology,Regional Medical Center,Blue Cross,Female,Hypertension,New York,202 Pine St,20,17,259,5640,2.5,245
+Dr. Lee,Endocrinology,Regional Medical Center,United Healthcare,Female,COPD,Houston,123 Main St,36,16,100,2713,2.1,36
+Dr. Miller,Dermatology,Regional Medical Center,Aetna,Female,Migraine,Dallas,707 Chestnut St,20,24,462,6140,3.8,413
+Dr. Martinez,Gastroenterology,Health Clinic,Blue Cross,Female,Diabetes,Dallas,202 Pine St,33,4,495,9840,4.8,46
+Dr. Garcia,Dermatology,Specialty Hospital,Blue Cross,Female,Asthma,Los Angeles,303 Cedar St,29,27,460,8172,3.3,404
+Dr. Garcia,Gastroenterology,Specialty Hospital,Medicaid,Male,Migraine,Los Angeles,404 Birch St,40,24,94,3998,3.0,3
+Dr. Williams,Dermatology,Health Clinic,United Healthcare,Male,Obesity,Dallas,404 Birch St,25,35,199,3012,3.3,370
+Dr. Garcia,Oncology,Health Clinic,Medicaid,Female,Diabetes,Dallas,707 Chestnut St,54,31,259,5668,2.4,267
+Dr. Johnson,Gastroenterology,Health Clinic,United Healthcare,Female,Arthritis,Los Angeles,303 Cedar St,26,40,348,5530,1.9,392
+Dr. Martinez,Pediatrics,Health Clinic,Aetna,Male,Cancer,San Antonio,707 Chestnut St,67,14,282,5170,3.5,11
+Dr. Miller,Ophthalmology,City Hospital,Cigna,Female,Obesity,Philadelphia,505 Spruce St,22,32,285,2321,4.3,473
+Dr. Miller,Neurology,Specialty Hospital,Blue Cross,Male,Asthma,San Jose,606 Walnut St,20,15,257,1972,3.3,226
+Dr. Garcia,Gastroenterology,Specialty Hospital,United Healthcare,Female,Heart Disease,New York,606 Walnut St,30,28,222,5116,2.3,139
+Dr. Johnson,Ophthalmology,Health Clinic,Cigna,Female,Migraine,San Diego,202 Pine St,26,25,468,4709,4.5,5
+Dr. Jones,Dermatology,City Hospital,Medicare,Male,Obesity,New York,456 Elm St,39,32,152,7457,1.1,400
+Dr. Lee,Cardiology,Regional Medical Center,Medicare,Male,Depression,San Jose,202 Pine St,20,36,446,5312,4.5,214
+Dr. Johnson,Endocrinology,Regional Medical Center,Medicare,Female,Arthritis,Chicago,505 Spruce St,29,29,493,9315,1.7,277
+Dr. Miller,Dermatology,City Hospital,United Healthcare,Female,Diabetes,Phoenix,456 Elm St,56,36,431,6984,4.7,58
+Dr. Patel,Ophthalmology,Health Clinic,Aetna,Male,Diabetes,Chicago,606 Walnut St,23,8,103,7051,4.6,3
+Dr. Smith,Gastroenterology,Specialty Hospital,Medicare,Male,Cancer,Houston,123 Main St,35,23,373,2038,3.7,167
+Dr. Patel,Gastroenterology,Health Clinic,United Healthcare,Male,Migraine,Chicago,123 Main St,39,31,169,294,2.2,31
+Dr. Smith,Gastroenterology,Health Clinic,United Healthcare,Male,Obesity,Dallas,123 Main St,32,22,441,9821,4.7,226
+Dr. Brown,Gastroenterology,Regional Medical Center,Medicare,Male,Diabetes,Chicago,404 Birch St,48,38,224,1995,2.1,433
+Dr. Jones,Oncology,City Hospital,Medicare,Female,Diabetes,San Antonio,505 Spruce St,45,24,73,5653,2.1,492
+Dr. Smith,Dermatology,City Hospital,Aetna,Male,Diabetes,New York,101 Oak St,30,23,274,2211,1.8,401
+Dr. Miller,Endocrinology,General Hospital,Medicare,Female,Hypertension,San Antonio,606 Walnut St,70,30,494,7579,4.8,330
+Dr. Miller,Oncology,Health Clinic,United Healthcare,Female,Obesity,San Jose,303 Cedar St,62,3,377,8686,4.6,52
+Dr. Williams,Psychiatry,City Hospital,Medicare,Male,Heart Disease,San Antonio,303 Cedar St,22,16,181,7270,3.5,298
+Dr. Lee,Neurology,Regional Medical Center,United Healthcare,Male,Obesity,San Jose,707 Chestnut St,46,3,209,5195,2.2,44
+Dr. Miller,Psychiatry,Regional Medical Center,Medicare,Female,Depression,San Jose,505 Spruce St,62,22,397,1290,3.2,220
+Dr. Johnson,Psychiatry,General Hospital,Medicaid,Male,Obesity,Dallas,789 Maple Ave,42,37,224,5645,1.0,426
+Dr. Smith,Neurology,General Hospital,Aetna,Female,COPD,Phoenix,505 Spruce St,60,2,218,5788,2.5,33
+Dr. Smith,Neurology,Specialty Hospital,Cigna,Male,COPD,Los Angeles,606 Walnut St,70,23,58,5926,4.5,399
+Dr. Lee,Endocrinology,General Hospital,Blue Cross,Male,Depression,Los Angeles,505 Spruce St,61,30,271,6157,2.6,355
+Dr. Brown,Endocrinology,City Hospital,Aetna,Female,Heart Disease,San Antonio,606 Walnut St,52,22,155,5158,1.7,188
+Dr. Smith,Dermatology,Regional Medical Center,Medicaid,Female,Arthritis,San Antonio,707 Chestnut St,67,19,363,4836,2.0,47
+Dr. Johnson,Pediatrics,City Hospital,Aetna,Male,Obesity,Chicago,404 Birch St,33,20,288,7629,1.9,73
+Dr. Garcia,Orthopedics,City Hospital,Medicare,Male,Asthma,Dallas,505 Spruce St,44,19,96,163,4.5,278
+Dr. Martinez,Oncology,Regional Medical Center,Aetna,Male,Arthritis,Dallas,101 Oak St,69,12,475,3547,4.8,133
+Dr. Lee,Neurology,Health Clinic,Cigna,Female,Asthma,San Antonio,101 Oak St,69,31,197,6130,1.2,483
+Dr. Jones,Cardiology,General Hospital,Blue Cross,Male,Migraine,Philadelphia,606 Walnut St,66,4,81,1454,3.4,358
+Dr. Brown,Cardiology,City Hospital,Blue Cross,Female,Diabetes,Houston,303 Cedar St,44,16,500,9689,3.1,98
+Dr. Patel,Psychiatry,Specialty Hospital,Medicare,Male,Hypertension,San Jose,505 Spruce St,54,23,393,2188,4.6,286
+Dr. Johnson,Neurology,Regional Medical Center,Cigna,Male,Obesity,San Diego,456 Elm St,69,35,379,5561,3.4,282
+Dr. Williams,Oncology,Regional Medical Center,Aetna,Male,Migraine,San Antonio,404 Birch St,25,32,72,3140,2.3,274
+Dr. Brown,Oncology,General Hospital,Medicaid,Male,Diabetes,Dallas,101 Oak St,36,23,274,2742,1.4,399
+Dr. Brown,Oncology,City Hospital,Aetna,Male,Diabetes,San Diego,123 Main St,36,8,97,634,4.5,13
+Dr. Lee,Orthopedics,Specialty Hospital,Cigna,Male,Asthma,San Jose,789 Maple Ave,69,12,375,1057,1.9,74
+Dr. Smith,Endocrinology,Regional Medical Center,Cigna,Male,Asthma,San Antonio,505 Spruce St,50,35,169,9404,4.0,347
+Dr. Jones,Orthopedics,Health Clinic,Blue Cross,Male,Hypertension,Philadelphia,303 Cedar St,56,27,308,8950,4.0,270
+Dr. Lee,Oncology,General Hospital,United Healthcare,Male,COPD,New York,456 Elm St,36,11,295,2853,2.9,286
+Dr. Brown,Pediatrics,General Hospital,Blue Cross,Female,Hypertension,San Antonio,707 Chestnut St,55,40,192,7777,3.3,279
+Dr. Patel,Gastroenterology,Specialty Hospital,Aetna,Male,Arthritis,Chicago,123 Main St,55,26,81,834,2.4,140
+Dr. Jones,Endocrinology,Specialty Hospital,Aetna,Male,Heart Disease,San Diego,707 Chestnut St,52,23,132,8102,4.2,368
+Dr. Patel,Cardiology,General Hospital,United Healthcare,Female,Asthma,San Diego,303 Cedar St,24,21,437,4997,1.7,344
+Dr. Patel,Cardiology,Health Clinic,Aetna,Male,COPD,San Diego,101 Oak St,32,16,444,6046,3.9,22
+Dr. Brown,Dermatology,Regional Medical Center,Medicare,Male,Depression,Los Angeles,789 Maple Ave,26,3,74,6843,4.0,269
+Dr. Jones,Cardiology,Regional Medical Center,Cigna,Female,Heart Disease,Chicago,606 Walnut St,64,20,356,1555,2.7,470
+Dr. Williams,Oncology,General Hospital,United Healthcare,Female,Cancer,Philadelphia,101 Oak St,27,24,377,5481,4.0,320
+Dr. Jones,Cardiology,General Hospital,Aetna,Male,Asthma,Houston,456 Elm St,34,1,445,9001,1.3,80
+Dr. Brown,Endocrinology,Specialty Hospital,Cigna,Male,Migraine,Los Angeles,789 Maple Ave,62,24,66,1347,1.5,250
+Dr. Patel,Orthopedics,Specialty Hospital,United Healthcare,Male,Obesity,San Antonio,505 Spruce St,31,37,228,7081,1.6,388
+Dr. Johnson,Psychiatry,Health Clinic,Medicare,Female,Cancer,San Diego,707 Chestnut St,64,19,290,3327,3.8,409
+Dr. Jones,Pediatrics,Health Clinic,Blue Cross,Female,Obesity,San Jose,606 Walnut St,44,14,382,2443,3.4,20
+Dr. Jones,Ophthalmology,Health Clinic,United Healthcare,Female,Cancer,Philadelphia,123 Main St,45,34,197,3721,1.8,305
+Dr. Smith,Orthopedics,General Hospital,Blue Cross,Female,Obesity,Phoenix,707 Chestnut St,63,19,374,672,4.4,252
+Dr. Martinez,Dermatology,Regional Medical Center,Blue Cross,Male,COPD,New York,123 Main St,47,11,159,6280,3.7,122
+Dr. Miller,Psychiatry,Specialty Hospital,Medicare,Female,Diabetes,Houston,303 Cedar St,47,23,268,8506,1.9,86
+Dr. Garcia,Dermatology,General Hospital,United Healthcare,Female,Migraine,San Jose,303 Cedar St,51,28,309,7980,4.5,446
+Dr. Patel,Gastroenterology,Regional Medical Center,Aetna,Female,Arthritis,Philadelphia,202 Pine St,25,36,217,6819,1.4,188
+Dr. Garcia,Orthopedics,City Hospital,United Healthcare,Female,COPD,Chicago,456 Elm St,45,14,336,7907,1.7,313
+Dr. Lee,Endocrinology,City Hospital,Medicare,Male,COPD,San Jose,505 Spruce St,34,28,73,6518,4.0,431
+Dr. Williams,Gastroenterology,Health Clinic,Medicare,Male,Cancer,Phoenix,606 Walnut St,31,37,252,2412,1.6,130
+Dr. Brown,Orthopedics,Regional Medical Center,United Healthcare,Female,Asthma,San Diego,456 Elm St,53,3,200,4411,2.5,30
+Dr. Lee,Orthopedics,General Hospital,Cigna,Male,Diabetes,New York,303 Cedar St,60,26,481,2516,2.7,277
+Dr. Brown,Endocrinology,General Hospital,Cigna,Male,Asthma,Chicago,456 Elm St,50,1,497,6161,2.5,356
+Dr. Johnson,Neurology,General Hospital,Medicare,Male,Asthma,San Antonio,456 Elm St,37,1,143,8180,1.1,410
+Dr. Brown,Gastroenterology,Regional Medical Center,Aetna,Female,COPD,Los Angeles,404 Birch St,40,21,246,3858,3.6,262
+Dr. Patel,Pediatrics,Health Clinic,Blue Cross,Male,COPD,San Jose,123 Main St,67,8,315,3446,4.3,299
+Dr. Brown,Endocrinology,Health Clinic,Cigna,Female,Heart Disease,Philadelphia,404 Birch St,46,28,67,8743,3.1,219
+Dr. Jones,Pediatrics,City Hospital,United Healthcare,Male,Arthritis,Chicago,101 Oak St,20,12,354,882,4.4,389
+Dr. Martinez,Psychiatry,General Hospital,Medicare,Female,Migraine,Los Angeles,456 Elm St,24,7,244,9893,2.9,35
+Dr. Lee,Pediatrics,General Hospital,Aetna,Male,Obesity,San Diego,303 Cedar St,46,19,290,678,1.2,251
+Dr. Patel,Gastroenterology,Regional Medical Center,Medicare,Female,Heart Disease,Phoenix,202 Pine St,59,17,163,851,1.0,486
+Dr. Smith,Psychiatry,City Hospital,United Healthcare,Male,Hypertension,Houston,505 Spruce St,52,5,144,959,2.4,65
+Dr. Brown,Dermatology,Health Clinic,Medicare,Female,Diabetes,San Diego,202 Pine St,36,30,126,7663,2.1,136
+Dr. Miller,Ophthalmology,General Hospital,Medicare,Female,Depression,San Jose,404 Birch St,29,1,204,6778,5.0,431
+Dr. Brown,Neurology,General Hospital,Blue Cross,Male,Diabetes,New York,404 Birch St,49,15,488,5064,2.0,330
+Dr. Smith,Oncology,Health Clinic,United Healthcare,Male,Migraine,New York,123 Main St,48,6,408,4904,2.6,438
+Dr. Garcia,Neurology,Regional Medical Center,United Healthcare,Female,Cancer,San Jose,606 Walnut St,36,9,230,4108,4.6,272
+Dr. Martinez,Psychiatry,Health Clinic,Blue Cross,Female,Hypertension,New York,707 Chestnut St,20,7,322,280,1.1,143
+Dr. Patel,Gastroenterology,City Hospital,Medicare,Male,Obesity,Dallas,707 Chestnut St,29,27,368,1322,2.1,13
+Dr. Patel,Endocrinology,Specialty Hospital,Medicare,Female,Migraine,Houston,123 Main St,33,32,295,2548,1.9,105
+Dr. Garcia,Dermatology,Health Clinic,Medicare,Male,Migraine,Los Angeles,456 Elm St,51,13,172,3785,1.4,495
+Dr. Lee,Pediatrics,City Hospital,Aetna,Female,Cancer,Phoenix,303 Cedar St,56,8,484,3848,4.9,107
+Dr. Garcia,Ophthalmology,Regional Medical Center,Cigna,Male,Asthma,San Diego,303 Cedar St,67,12,467,6055,2.6,386
+Dr. Brown,Gastroenterology,City Hospital,Aetna,Female,Asthma,Houston,505 Spruce St,52,40,451,3258,3.7,71
+Dr. Jones,Orthopedics,Regional Medical Center,Aetna,Female,Arthritis,San Diego,789 Maple Ave,29,16,252,4017,4.3,306
+Dr. Patel,Orthopedics,Specialty Hospital,Cigna,Female,Diabetes,San Diego,123 Main St,29,35,139,2744,4.6,272
+Dr. Williams,Dermatology,Specialty Hospital,Medicare,Female,Arthritis,San Diego,505 Spruce St,56,4,69,4408,3.4,243
+Dr. Lee,Pediatrics,Regional Medical Center,Blue Cross,Male,Obesity,Houston,707 Chestnut St,44,15,439,6913,2.0,102
+Dr. Garcia,Orthopedics,Health Clinic,Medicare,Male,Depression,Los Angeles,404 Birch St,22,11,340,3984,3.1,356
+Dr. Lee,Orthopedics,Health Clinic,Aetna,Male,Asthma,Los Angeles,303 Cedar St,67,20,73,1682,2.8,330
+Dr. Lee,Oncology,Health Clinic,Medicare,Male,Hypertension,Phoenix,404 Birch St,44,18,164,7531,1.5,468
+Dr. Williams,Ophthalmology,Regional Medical Center,Cigna,Male,Asthma,Chicago,101 Oak St,41,6,388,2247,2.3,343
+Dr. Jones,Gastroenterology,Health Clinic,Cigna,Male,Cancer,San Antonio,404 Birch St,69,28,425,5988,1.3,318
+Dr. Jones,Orthopedics,Health Clinic,Cigna,Male,Obesity,San Diego,707 Chestnut St,31,5,147,339,3.6,469
+Dr. Jones,Psychiatry,City Hospital,Medicare,Male,Arthritis,Chicago,606 Walnut St,39,18,182,5579,3.2,324
+Dr. Brown,Psychiatry,Regional Medical Center,Medicare,Female,Depression,San Diego,123 Main St,70,4,438,1624,2.8,153
+Dr. Brown,Psychiatry,General Hospital,Medicare,Male,COPD,Phoenix,123 Main St,62,11,147,1010,3.6,64
+Dr. Brown,Psychiatry,Health Clinic,Blue Cross,Female,Diabetes,Philadelphia,707 Chestnut St,31,29,363,4180,4.8,488
+Dr. Garcia,Neurology,Health Clinic,Medicare,Female,Hypertension,Dallas,456 Elm St,52,25,140,1011,2.1,199
+Dr. Smith,Endocrinology,City Hospital,Blue Cross,Female,Obesity,San Jose,707 Chestnut St,56,26,425,6422,2.9,74
+Dr. Williams,Psychiatry,Health Clinic,Medicaid,Male,Arthritis,San Antonio,456 Elm St,61,1,138,8799,1.9,135
+Dr. Brown,Dermatology,Regional Medical Center,Medicare,Female,Diabetes,San Diego,505 Spruce St,43,37,207,3489,4.9,345
+Dr. Johnson,Psychiatry,Health Clinic,United Healthcare,Male,Arthritis,Dallas,202 Pine St,59,34,347,9865,1.5,286
+Dr. Martinez,Endocrinology,General Hospital,Medicare,Male,Cancer,San Antonio,456 Elm St,45,27,346,7776,1.5,449
+Dr. Garcia,Oncology,Regional Medical Center,Cigna,Male,Heart Disease,Dallas,505 Spruce St,35,25,148,4563,2.6,125
+Dr. Martinez,Cardiology,General Hospital,Medicare,Male,Asthma,Houston,456 Elm St,66,17,434,4929,2.2,31
+Dr. Johnson,Gastroenterology,City Hospital,Blue Cross,Female,Hypertension,Houston,789 Maple Ave,43,37,303,7271,2.0,465
+Dr. Smith,Neurology,General Hospital,Medicare,Female,Depression,San Jose,123 Main St,39,1,247,4456,2.6,351
+Dr. Smith,Cardiology,Specialty Hospital,Aetna,Female,Depression,Houston,404 Birch St,40,2,144,1270,1.5,70
+Dr. Martinez,Endocrinology,Specialty Hospital,Blue Cross,Female,COPD,Los Angeles,789 Maple Ave,42,16,317,3649,2.5,235
+Dr. Martinez,Cardiology,Health Clinic,Medicare,Female,Cancer,Houston,202 Pine St,65,2,276,4628,3.6,147
+Dr. Johnson,Psychiatry,City Hospital,Medicaid,Male,Obesity,Phoenix,123 Main St,39,19,393,3971,2.3,311
+Dr. Garcia,Pediatrics,General Hospital,United Healthcare,Female,Migraine,Phoenix,202 Pine St,55,24,83,5590,2.1,475
+Dr. Johnson,Pediatrics,City Hospital,Blue Cross,Female,Migraine,San Jose,505 Spruce St,42,26,307,1633,1.5,270
+Dr. Smith,Cardiology,Regional Medical Center,Medicare,Female,Obesity,Los Angeles,505 Spruce St,28,11,241,762,3.4,95
+Dr. Brown,Oncology,General Hospital,United Healthcare,Male,Asthma,Dallas,505 Spruce St,27,40,306,9240,1.9,77
+Dr. Lee,Gastroenterology,Regional Medical Center,Cigna,Male,Diabetes,Philadelphia,404 Birch St,61,39,438,114,3.1,83
+Dr. Jones,Orthopedics,Health Clinic,Cigna,Male,COPD,Los Angeles,202 Pine St,23,13,404,8265,3.2,293
+Dr. Martinez,Ophthalmology,City Hospital,Aetna,Male,Diabetes,San Jose,606 Walnut St,41,23,472,3185,4.5,289
+Dr. Williams,Gastroenterology,City Hospital,Blue Cross,Male,Migraine,Los Angeles,123 Main St,28,25,120,1091,2.3,241
+Dr. Brown,Oncology,Specialty Hospital,Blue Cross,Male,Arthritis,Dallas,404 Birch St,27,14,255,436,4.9,43
+Dr. Johnson,Dermatology,Regional Medical Center,Cigna,Male,Arthritis,Philadelphia,707 Chestnut St,43,27,165,2804,3.9,482
+Dr. Smith,Ophthalmology,General Hospital,Blue Cross,Male,Obesity,San Jose,404 Birch St,60,4,149,6919,1.2,407
+Dr. Miller,Orthopedics,General Hospital,Cigna,Female,Asthma,Dallas,101 Oak St,22,39,210,1145,3.9,37
+Dr. Brown,Gastroenterology,Specialty Hospital,Blue Cross,Male,Obesity,San Diego,404 Birch St,24,22,271,1056,1.1,421
+Dr. Brown,Orthopedics,City Hospital,Medicare,Female,COPD,Los Angeles,404 Birch St,56,21,71,3004,4.3,232
+Dr. Jones,Pediatrics,General Hospital,Medicaid,Male,Arthritis,Dallas,505 Spruce St,55,11,392,1929,4.0,15
+Dr. Lee,Psychiatry,Health Clinic,Cigna,Female,Asthma,San Diego,505 Spruce St,41,6,132,6183,3.2,218
+Dr. Miller,Dermatology,Specialty Hospital,Cigna,Female,Obesity,Chicago,202 Pine St,48,39,177,6833,3.4,478
+Dr. Garcia,Ophthalmology,Regional Medical Center,Aetna,Male,Hypertension,Phoenix,202 Pine St,32,13,352,8841,1.4,456
+Dr. Garcia,Endocrinology,Specialty Hospital,Medicare,Male,Migraine,New York,303 Cedar St,28,11,311,2997,1.0,94
+Dr. Patel,Gastroenterology,Health Clinic,Aetna,Female,Heart Disease,Houston,707 Chestnut St,45,40,452,1834,3.9,356
+Dr. Patel,Gastroenterology,Specialty Hospital,Cigna,Female,Migraine,Houston,404 Birch St,37,4,290,4549,3.7,254
+Dr. Brown,Dermatology,Specialty Hospital,Medicare,Female,Diabetes,Dallas,505 Spruce St,55,40,93,6950,3.6,160
+Dr. Patel,Endocrinology,Health Clinic,Blue Cross,Male,Diabetes,San Diego,303 Cedar St,22,16,427,4757,1.0,206
+Dr. Patel,Dermatology,City Hospital,Cigna,Male,Diabetes,Houston,123 Main St,53,3,317,834,4.1,248
+Dr. Brown,Cardiology,General Hospital,United Healthcare,Male,Asthma,Philadelphia,404 Birch St,69,34,154,5241,4.7,136
+Dr. Johnson,Endocrinology,General Hospital,Cigna,Male,Obesity,Phoenix,789 Maple Ave,59,26,325,1117,3.6,462
+Dr. Williams,Psychiatry,Specialty Hospital,Aetna,Male,Depression,San Jose,101 Oak St,57,15,73,5300,4.2,157
+Dr. Williams,Endocrinology,General Hospital,Cigna,Female,COPD,San Diego,303 Cedar St,63,14,240,1695,3.7,403
+Dr. Patel,Dermatology,City Hospital,Blue Cross,Female,Diabetes,San Diego,123 Main St,46,18,144,457,3.9,206
+Dr. Williams,Psychiatry,General Hospital,Medicare,Female,Depression,San Diego,789 Maple Ave,59,22,127,853,4.9,255
+Dr. Smith,Orthopedics,Specialty Hospital,Cigna,Female,Migraine,Phoenix,303 Cedar St,52,11,131,5727,4.7,97
+Dr. Patel,Ophthalmology,Regional Medical Center,Blue Cross,Male,Hypertension,Los Angeles,456 Elm St,38,12,138,7909,3.4,178
+Dr. Johnson,Pediatrics,Health Clinic,United Healthcare,Female,Asthma,Chicago,456 Elm St,60,26,109,8896,4.2,54
+Dr. Martinez,Endocrinology,Regional Medical Center,Cigna,Female,Cancer,San Jose,505 Spruce St,58,8,343,6372,3.4,391
+Dr. Jones,Cardiology,City Hospital,United Healthcare,Female,Cancer,Dallas,505 Spruce St,22,31,135,9968,1.8,70
+Dr. Miller,Neurology,City Hospital,Medicare,Male,Heart Disease,Dallas,202 Pine St,46,13,442,8855,3.6,106
+Dr. Lee,Pediatrics,Specialty Hospital,Medicare,Female,Asthma,San Jose,303 Cedar St,46,16,72,7233,2.1,424
+Dr. Miller,Endocrinology,Regional Medical Center,Aetna,Female,Arthritis,Houston,456 Elm St,23,4,355,1066,4.0,49
+Dr. Jones,Psychiatry,City Hospital,Aetna,Male,Heart Disease,Dallas,101 Oak St,47,32,73,5816,3.8,213
+Dr. Jones,Ophthalmology,Regional Medical Center,Cigna,Female,COPD,Dallas,101 Oak St,70,7,248,8060,2.8,336
+Dr. Lee,Oncology,General Hospital,Cigna,Female,Hypertension,Houston,606 Walnut St,21,5,87,376,2.1,166
+Dr. Lee,Pediatrics,Specialty Hospital,Blue Cross,Female,Migraine,Chicago,606 Walnut St,63,9,230,6416,4.3,499
+Dr. Williams,Ophthalmology,Specialty Hospital,Aetna,Male,Hypertension,San Diego,505 Spruce St,34,5,375,7716,3.5,135
+Dr. Brown,Orthopedics,Regional Medical Center,Blue Cross,Male,Depression,Los Angeles,404 Birch St,52,35,208,5752,2.8,86
+Dr. Williams,Psychiatry,Specialty Hospital,Medicare,Female,Depression,San Diego,404 Birch St,59,25,460,7058,2.7,263
+Dr. Martinez,Gastroenterology,General Hospital,Medicare,Male,Obesity,Los Angeles,505 Spruce St,48,18,363,1579,3.8,144
+Dr. Smith,Pediatrics,Regional Medical Center,Medicaid,Male,COPD,Dallas,202 Pine St,33,15,470,9779,2.5,323
+Dr. Patel,Gastroenterology,Specialty Hospital,Aetna,Male,Migraine,Houston,123 Main St,34,39,296,8718,3.9,499
+Dr. Martinez,Cardiology,General Hospital,United Healthcare,Female,Depression,Houston,101 Oak St,29,8,448,8804,1.1,48
+Dr. Jones,Psychiatry,General Hospital,Blue Cross,Male,Heart Disease,Houston,707 Chestnut St,70,20,89,3397,1.5,426
+Dr. Williams,Orthopedics,Regional Medical Center,Medicaid,Male,Diabetes,New York,404 Birch St,23,8,318,7349,2.6,486
+Dr. Smith,Dermatology,Specialty Hospital,Cigna,Female,Asthma,San Diego,456 Elm St,54,18,440,7010,3.2,56
+Dr. Brown,Psychiatry,Health Clinic,Cigna,Male,Migraine,Chicago,404 Birch St,35,32,117,3435,4.9,35
+Dr. Patel,Neurology,City Hospital,Blue Cross,Male,Hypertension,Chicago,123 Main St,69,3,405,2163,4.3,24
+Dr. Smith,Cardiology,General Hospital,Blue Cross,Male,Cancer,San Diego,123 Main St,36,38,54,1439,2.6,342
+Dr. Garcia,Dermatology,General Hospital,Medicare,Male,Diabetes,New York,456 Elm St,31,6,374,7800,4.0,475
+Dr. Johnson,Ophthalmology,Regional Medical Center,United Healthcare,Male,Asthma,Chicago,789 Maple Ave,57,6,372,2033,4.7,24
+Dr. Miller,Pediatrics,City Hospital,United Healthcare,Female,COPD,Dallas,101 Oak St,45,4,278,3852,3.7,212
+Dr. Miller,Cardiology,Health Clinic,Medicare,Male,Obesity,Philadelphia,101 Oak St,61,38,263,6442,4.9,97
+Dr. Miller,Gastroenterology,Health Clinic,United Healthcare,Female,Obesity,Los Angeles,505 Spruce St,34,2,95,3987,3.8,136
+Dr. Martinez,Neurology,Health Clinic,Medicare,Male,Arthritis,San Diego,606 Walnut St,39,20,370,3238,1.6,66
+Dr. Smith,Ophthalmology,Specialty Hospital,Blue Cross,Female,Arthritis,Chicago,303 Cedar St,43,32,310,9058,4.4,333
+Dr. Patel,Oncology,Specialty Hospital,Medicare,Female,Arthritis,Dallas,707 Chestnut St,54,9,437,919,3.7,396
+Dr. Williams,Gastroenterology,Specialty Hospital,Blue Cross,Female,COPD,San Jose,505 Spruce St,45,19,276,1044,4.0,389
+Dr. Martinez,Psychiatry,Specialty Hospital,United Healthcare,Male,Depression,San Antonio,303 Cedar St,54,18,181,9560,2.6,401
+Dr. Jones,Pediatrics,General Hospital,United Healthcare,Female,Migraine,Philadelphia,123 Main St,33,6,74,1198,1.3,155
+Dr. Patel,Cardiology,City Hospital,United Healthcare,Female,Cancer,Philadelphia,789 Maple Ave,28,31,66,6022,2.9,12
+Dr. Williams,Neurology,General Hospital,Blue Cross,Female,Migraine,New York,404 Birch St,37,30,302,1767,4.0,470
+Dr. Smith,Dermatology,Specialty Hospital,Aetna,Male,COPD,Houston,303 Cedar St,26,31,278,4592,3.0,450
