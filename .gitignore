@@ -2,4 +2,4 @@ venv
 Web_Project.egg-info/
 
 # Environments
-.artifacts
+.artifacts 
